@@ -1,6 +1,6 @@
 ---
 title: Time Value of Money
-tags: [finance, concept, corporate-finance, #concept]
+tags: [finance, concept, corporate-finance, concept]
 aliases: [TVM, PV, NPV basics]
 ---
 
