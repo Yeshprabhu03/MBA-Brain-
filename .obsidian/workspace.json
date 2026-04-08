@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3daee46292fed465",
@@ -178,6 +179,14 @@
   },
   "active": "a048d2cc7273a9d8",
   "lastOpenFiles": [
+    "09 - Data & Analytics/Monte Carlo Simulation.md",
+    "02 - Strategy/Corporate Strategy/M&A Strategy.md",
+    "10 - Ethics & ESG/ESG Investing.md",
+    "07 - Economics/Microeconomics/Supply and Demand.md",
+    "01 - Finance/Valuation/Comparable Company Analysis.md",
+    "12 - Frameworks & Models/Ansoff Matrix.md",
+    "06 - Accounting/Financial Accounting/Cash Flow Statement.md",
+    "06 - Accounting/Financial Accounting/Balance Sheet.md",
     "09 - Data & Analytics/Regression Analysis.md",
     "08 - Entrepreneurship/Innovation/Design Thinking.md",
     "07 - Economics/Macroeconomics/Monetary Policy.md",
@@ -203,14 +212,6 @@
     "09 - Data & Analytics/A",
     "11 - Case Studies/Amazon Flywheel Case.md",
     "05 - Organizational Behavior/Leadership/Psychological Safety.md",
-    "02 - Strategy/Competitive Strategy/Value Chain Analysis.md",
-    "03 - Marketing/Brand Management/4Ps of Marketing.md",
-    "12 - Frameworks & Models/McKinsey 7S Framework.md",
-    "07 - Economics/Behavioral Economics/Behavioral Economics Overview.md",
-    "05 - Organizational Behavior/Leadership/Motivation Theories.md",
-    "04 - Operations/Process Management/Lean Manufacturing.md",
-    "01 - Finance/Valuation/DCF Valuation.md",
-    "Diversity, Equity & Inclusion.md",
     "quartz.config.ts",
     "_Assets/attachments",
     "_Assets"
