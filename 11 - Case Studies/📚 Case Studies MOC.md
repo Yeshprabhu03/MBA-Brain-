@@ -30,8 +30,23 @@ Cases live inside each subject folder under a `Cases/` subfolder — so when you
 
 ---
 
-> ⭐ **Full writeups** have complete analysis, key lessons, and discussion questions.
-> Other cases are structured stubs — fill them in as you study each case.
+## 📖 Case Structure
+
+Every case study in this vault follows a standardized analytical structure:
+1. **Situation**: Background on the company, industry, and strategic challenge.
+2. **Decision**: The core problem or investment choice facing management.
+3. **Frameworks Applied**: How standard MBA tools (e.g., Porter's 5 Forces, DCF) are deployed.
+4. **Outcome**: What actually happened in the real world.
+5. **Key Takeaway**: The universal business lesson.
+
+## ⭐ Featured Cases
+
+Start with these 5 standout cases spanning the core curriculum:
+- **Finance**: [[RJR Nabisco LBO]] — The ultimate primer on leveraged buyouts and capital structure.
+- **Strategy**: [[Disney and Pixar]] — Deep dive into corporate strategy and synergy through M&A.
+- **Marketing**: [[HubSpot Inbound Marketing]] — Redefining customer acquisition funnels.
+- **Operations**: [[Zara Supply Chain]] — Achieving unmatched agility through vertical integration.
+- **Ethics**: [[Facebook Cambridge Analytica]] — The consequences of disregarding data privacy.
 
 ---
 

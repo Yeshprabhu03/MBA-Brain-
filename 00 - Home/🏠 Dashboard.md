@@ -11,6 +11,15 @@ Covering: **HBS · Wharton · Booth · Kellogg · Stanford GSB · Columbia**
 
 ---
 
+## 📖 New Here?
+
+> This vault is an interconnected web of over 300 business concepts, cases, and frameworks.
+> 
+> 👉 [[How to Use This Vault]]
+> 👉 Start your journey by exploring the **[[📚 Case Studies MOC]]**.
+
+---
+
 ## 🗺️ Core Subject Areas
 
 | #   | Subject                            | Focus                                   |

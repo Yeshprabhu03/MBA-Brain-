@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f96ed22bbbc3312c",
+        "id": "f05a0529f534b324",
         "type": "tabs",
         "children": [
           {
-            "id": "095309876bf0ec86",
+            "id": "e1ef51536b94918b",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -177,8 +177,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "095309876bf0ec86",
+  "active": "e1ef51536b94918b",
   "lastOpenFiles": [
+    "01 - Finance/Valuation/Terminal Value.md",
+    "02 - Strategy/SWOT Analysis.md",
+    "Clayton Christensen.md",
+    "README.md",
     "09 - Data & Analytics/A-B Testing.md",
     "09 - Data & Analytics/AB Testing.md",
     "Michael Porter.md",
@@ -213,10 +217,6 @@
     "_build_test_env/docs/plugins/FolderPage.md",
     "_build_test_env/docs/plugins/Favicon.md",
     "_build_test_env/docs/plugins/ExplicitPublish.md",
-    "_build_test_env/docs/plugins/Description.md",
-    "_build_test_env/docs/plugins/CustomOgImages.md",
-    "_build_test_env/docs/plugins/CreatedModifiedDate.md",
-    "_build_test_env/docs/plugins/CrawlLinks.md",
     "_build_test_env/docs/images/social-image-preview-light.png",
     "_build_test_env/docs/images/social-image-preview-dark.png",
     "_build_test_env/docs/images/quartz-layout-tablet.png",
