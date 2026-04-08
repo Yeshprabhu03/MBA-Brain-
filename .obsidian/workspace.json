@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3b908f148e004e16",
+        "id": "d88ff180412be0bd",
         "type": "tabs",
         "children": [
           {
-            "id": "288de523fd094136",
+            "id": "55a71bc8b779629e",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3daee46292fed465",
@@ -177,8 +176,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "288de523fd094136",
+  "active": "55a71bc8b779629e",
   "lastOpenFiles": [
+    "09 - Data & Analytics/A/B Testing.md",
+    "09 - Data & Analytics/A",
+    "11 - Case Studies/Amazon Flywheel Case.md",
+    "05 - Organizational Behavior/Leadership/Psychological Safety.md",
+    "02 - Strategy/Competitive Strategy/Value Chain Analysis.md",
+    "03 - Marketing/Brand Management/4Ps of Marketing.md",
+    "12 - Frameworks & Models/McKinsey 7S Framework.md",
+    "07 - Economics/Behavioral Economics/Behavioral Economics Overview.md",
+    "05 - Organizational Behavior/Leadership/Motivation Theories.md",
+    "04 - Operations/Process Management/Lean Manufacturing.md",
+    "01 - Finance/Valuation/DCF Valuation.md",
+    "Diversity, Equity & Inclusion.md",
+    "05 - Organizational Behavior/👥 Organizational Behavior MOC.md",
     "PUBLISHING.md",
     "quartz.config.ts",
     "03 - Marketing/Consumer Behavior/Customer Lifetime Value.md",
@@ -194,18 +206,6 @@
     "13 - Schools & Professors/Columbia/Columbia.md",
     "13 - Schools & Professors/Kellogg/Kellogg.md",
     "13 - Schools & Professors/Booth/Booth.md",
-    "13 - Schools & Professors/Wharton/Wharton.md",
-    "13 - Schools & Professors/Stanford GSB/Stanford GSB.md",
-    "13 - Schools & Professors/HBS/HBS.md",
-    "13 - Schools & Professors/🏫 Schools & Professors MOC.md",
-    "04 - Operations/Supply Chain/Supply Chain Management.md",
-    "02 - Strategy/Competitive Strategy/Disruptive Innovation.md",
-    "08 - Entrepreneurship/Venture Creation/Lean Startup.md",
-    "11 - Case Studies/Netflix Disruption Case.md",
-    "11 - Case Studies/📚 Case Studies MOC.md",
-    "Cohort Analysis.md",
-    "05 - Organizational Behavior/Negotiations/Negotiation Strategies.md",
-    "03 - Marketing/Consumer Behavior/STP Framework.md",
     "_Assets/attachments",
     "_Assets",
     "Templates",
@@ -213,7 +213,6 @@
     "13 - Schools & Professors/Stanford GSB",
     "13 - Schools & Professors/Kellogg",
     "13 - Schools & Professors/HBS",
-    "13 - Schools & Professors/Columbia",
-    "13 - Schools & Professors/Booth"
+    "13 - Schools & Professors/Columbia"
   ]
 }
