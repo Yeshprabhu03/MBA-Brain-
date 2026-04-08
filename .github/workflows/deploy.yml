@@ -15,9 +15,6 @@ concurrency:
   group: "pages"
   cancel-in-progress: false
 
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
 jobs:
   build:
     name: Build with Quartz
@@ -31,7 +28,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 22
+          node-version: 20
 
       - name: Clone Quartz
         run: |
@@ -65,9 +62,12 @@ jobs:
             cp quartz.layout.ts quartz-build/quartz.layout.ts
           fi
 
-      - name: Debug Content
+      - name: Audit Content & Check for Duplicates
         run: |
+          echo "📂 Listing content directory..."
           ls -R quartz-build/content
+          echo "🔍 Checking for duplicate slugs..."
+          find quartz-build/content -name "*.md" | xargs basename -a | sort | uniq -d
 
       - name: Build Quartz site
         run: |
