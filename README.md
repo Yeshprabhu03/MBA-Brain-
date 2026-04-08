@@ -1,52 +1,131 @@
-# 🎓 MBA Second Brain: Decentralized Knowledge Graph
+# 🎓 MBA Brain — Open Knowledge Vault
 
-**Live Deployment:** [https://Yeshprabhu03.github.io/MBA-Brain-/](https://Yeshprabhu03.github.io/MBA-Brain-/)
+> A free, public second brain mapping everything taught at the world's top MBA programs.
+> Built with Obsidian. Published with Quartz. Automated with Python + AI.
 
-Welcome to the **MBA Knowledge Vault** repository. This project is a comprehensive, decentralized Map of Content (MOC) built to structure, search, and visualize core MBA concepts and business case studies. 
-
-It transforms a raw collection of markdown notes into an interactive, globally accessible digital garden powered by an automated CI/CD pipeline.
-
----
-
-## 🛠️ The Tech Stack
-
-*   **Authoring & Data Layer:** [Obsidian](https://obsidian.md/) (Local-first Markdown, Zettelkasten methodology)
-*   **Data Engineering & Automation:** Python (RegEx, File-system traversing), Agentic LLMs
-*   **Static Site Generator (SSG):** [Quartz 4](https://quartz.jzhao.xyz/) (React, Node.js v22, TypeScript)
-*   **CI/CD Pipeline:** GitHub Actions
-*   **Hosting:** GitHub Pages
+**🌐 Live Site → [Yeshprabhu03.github.io/MBA-Brain-](https://Yeshprabhu03.github.io/MBA-Brain-/)**
 
 ---
 
-## 🏗️ Architecture & Development Lifecycle
+## What This Is
 
-### Phase 1: Architecture & Structural Design (Obsidian)
-**The Goal:** Create a "Second Brain" that naturally surfaces connections between disparate business concepts.
-*   Instead of a rigid, traditional folder structure, this vault relies on a **Map of Content (MOC)** architecture, categorizing MBA knowledge into 10 distinct subjects (e.g., Finance, Strategy, Operations).
-*   Utilized Obsidian's Markdown-based `[[wikilink]]` system to create highly interconnected nodes, ensuring every Case Study inherently links back to core theoretical business frameworks, creating a resilient and decentralized database structure.
+Most MBA knowledge sits locked behind $200K tuition, paywalled case studies, and proprietary course packs. This vault changes that.
 
-### Phase 2: Data Engineering & Automation (Python + Agentic AI)
-**The Goal:** Scale the database from an empty skeleton to a high-fidelity knowledge vault, mapping out over 300 highly specific business topics.
-*   Executed automated graph-analysis to locate **"Ghost Nodes"**—links that existed contextually but lacked underlying markdown files.
-*   Wrote custom **Python** ingestion and processing scripts. Leveraged Agentic LLMs to batch-generate and populate >180 dense concept notes and >100 case study notes. 
-*   Scripts traversed the directory tree, injected generated markdown into the correct subject folders, and applied RegEx to ensure strict link hygiene (e.g., safely escaping characters and handling directory path discrepancies).
+**MBA Brain** is a structured, interconnected knowledge graph covering the full curriculum of programs like HBS, Wharton, Booth, Kellogg, and Stanford GSB — broken down into 10 subject areas, 100+ case studies, 180+ framework notes, and a live interactive graph showing how every concept connects.
 
-### Phase 3: Web Compilation (Quartz 4 / TypeScript)
-**The Goal:** Transform complex, local Markdown files into a lightweight, interactive, and public-facing website.
-*   Integrated the vault with **Quartz 4**, a highly optimized SSG. 
-*   Quartz, running on Node.js and React, natively parses Obsidian's unique syntax (tags, wikilinks, YAML frontmatter). It strips out local, private directories and compiles the markdown into standardized HTML/CSS.
-*   It also renders the complex multi-dimensional relationships between notes into an interactive, front-end D3.js network graph visible on the live site.
-
-### Phase 4: Continuous Deployment (GitHub Actions)
-**The Goal:** Establish a frictionless deployment pipeline where modifying a local `.md` file instantly updates the live web application.
-*   Engineered a CI/CD pipeline using a **GitHub Actions `.yml` workflow**. 
-*   Every `git push` to the `main` branch triggers an automated Ubuntu runner. The runner initializes Node.js 22, clones the open-source Quartz engine, parses the latest Markdown files from this repository, builds the static website, and pushes the production assets directly to **GitHub Pages**.
+It is designed to be genuinely useful for:
+- Self-learners who want rigorous business education without the debt
+- MBA students building a reference system alongside their coursework
+- Product managers, consultants, and founders who need sharp mental models fast
+- Anyone preparing for case interviews, strategy roles, or executive leadership
 
 ---
 
-## 📂 Repository Structure Highlights
-*   **`00 - Home/` & `[01-10] - Subject Folders/`**: The core data structures holding the actual markdown nodes.
-*   **`.github/workflows/deploy.yml`**: The CI/CD instructions powering the automated website build.
-*   **`quartz.config.ts`**: The TypeScript configuration dictating how the SSG ignores system files and renders the user interface.
+## The 10 Subject Areas
 
-*Created and maintained by Yeshwanth.*
+| # | Subject |
+|---|---|
+| 01 | 📊 Finance |
+| 02 | 🎯 Strategy |
+| 03 | 📣 Marketing |
+| 04 | ⚙️ Operations |
+| 05 | 👥 Organizational Behavior |
+| 06 | 📒 Accounting |
+| 07 | 📈 Economics |
+| 08 | 🚀 Entrepreneurship |
+| 09 | 📉 Data & Analytics |
+| 10 | ⚖️ Ethics & ESG |
+
+Each subject has a Map of Content (MOC) that links every framework, case study, and concept note within that domain.
+
+---
+
+## What's Inside
+
+- **180+ Concept Notes** — every major framework, model, and theory taught across top programs (Porter's Five Forces, DCF, Blue Ocean Strategy, Business Model Canvas, Psychological Safety, Theory of Constraints, and more)
+- **100+ Case Studies** — landmark business cases mapped to the frameworks they teach (Netflix vs. Blockbuster, Toyota Production System, Enron, Airbnb's Early Days, and more)
+- **School Profiles** — HBS, Wharton, Booth, Kellogg, Stanford GSB, Columbia — covering each program's pedagogy, signature curriculum, and philosophy
+- **Interactive Graph** — a live D3.js knowledge graph showing the connections between every note in the vault
+- **Dataview Dashboards** — queryable tables that surface frameworks by subject, mastery level, and school origin
+
+---
+
+## How It Was Built
+
+### Phase 1 — Vault Architecture (Obsidian)
+Built on a Map of Content (MOC) methodology using Obsidian's `[[wikilink]]` system. Every case study links back to the frameworks it teaches. Every framework links forward to the cases that apply it. No isolated notes.
+
+### Phase 2 — Content at Scale (Python + Agentic AI)
+Wrote Python scripts to traverse the directory tree, detect ghost nodes (contextual links without underlying files), and batch-generate content. Used agentic LLMs to populate 280+ dense notes with accurate, school-referenced content. Applied regex for link hygiene and path consistency.
+
+### Phase 3 — Web Compilation (Quartz 4)
+Integrated with Quartz 4, a React/TypeScript static site generator that natively parses Obsidian syntax — wikilinks, tags, YAML frontmatter — and compiles everything into a fast, interactive website with a live knowledge graph.
+
+### Phase 4 — CI/CD Pipeline (GitHub Actions)
+Every `git push` to `main` triggers an automated Ubuntu runner that builds and deploys the full site to GitHub Pages. A local markdown edit becomes a live update within minutes.
+
+---
+
+## Tech Stack
+
+| Layer | Tool |
+|---|---|
+| Authoring | Obsidian (Markdown, Zettelkasten) |
+| Automation | Python, Agentic LLMs |
+| Static Site Generator | Quartz 4 (React, TypeScript, Node.js 22) |
+| Graph Rendering | D3.js |
+| CI/CD | GitHub Actions |
+| Hosting | GitHub Pages |
+
+---
+
+## Repository Structure
+
+```
+MBA-Brain-/
+├── 00 - Home/                  # Dashboard and navigation hub
+├── 01 - Finance/               # DCF, WACC, LBO, capital structure...
+├── 02 - Strategy/              # Porter, Blue Ocean, VRIO, disruption...
+├── 03 - Marketing/             # STP, CLV, brand strategy...
+├── 04 - Operations/            # Lean, TOC, supply chain...
+├── 05 - Organizational Behavior/
+├── 06 - Accounting/
+├── 07 - Economics/
+├── 08 - Entrepreneurship/
+├── 09 - Data & Analytics/
+├── 10 - Ethics & ESG/
+├── 11 - Case Studies/          # 100+ landmark cases
+├── 12 - Frameworks & Models/   # 180+ concept notes
+├── 13 - Schools & Professors/  # HBS, Wharton, Booth, Kellogg, GSB, Columbia
+├── Templates/                  # Obsidian note templates
+├── .github/workflows/          # CI/CD deploy pipeline
+└── quartz.config.ts            # SSG configuration
+```
+
+---
+
+## Using This Vault Locally
+
+Clone and open in Obsidian for the full local experience — graph view, Dataview queries, Canvas maps, and all plugin functionality.
+
+```bash
+git clone https://github.com/Yeshprabhu03/MBA-Brain-.git
+```
+
+Then open the folder as a vault in Obsidian. Install recommended plugins: Dataview, Templater, Canvas, Excalidraw.
+
+---
+
+## Contributing
+
+This is a living knowledge base. If you find errors, missing frameworks, or want to add a case study — open a pull request. All contributions welcome.
+
+---
+
+## License
+
+All content is open and free to use for learning purposes.
+
+---
+
+*Built by [Yeshwanth](https://github.com/Yeshprabhu03)*
