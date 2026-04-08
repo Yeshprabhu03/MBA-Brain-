@@ -1,6 +1,10 @@
 ---
 title: Airbnb Growth Hacking
 tags: [case-study, marketing]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Airbnb Growth Hacking

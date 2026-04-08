@@ -1,6 +1,10 @@
 ---
 title: Kenya M-Pesa
 tags: [case-study, economics]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Kenya M-Pesa

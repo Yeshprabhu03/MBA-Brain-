@@ -1,6 +1,10 @@
 ---
 title: Sport Obermeyer
 tags: [case-study, operations]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Sport Obermeyer

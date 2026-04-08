@@ -1,6 +1,10 @@
 ---
 title: Bankruptcy of Lehman Brothers
 tags: [case-study, finance]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Bankruptcy of Lehman Brothers

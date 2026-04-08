@@ -1,6 +1,10 @@
 ---
 title: Moneyball Oakland As
 tags: [case-study, data-analytics, decision-making]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Moneyball: The Oakland A's

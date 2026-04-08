@@ -1,6 +1,10 @@
 ---
 title: Zipcar
 tags: [case-study, entrepreneurship]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Zipcar

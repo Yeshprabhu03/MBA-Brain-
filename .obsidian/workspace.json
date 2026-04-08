@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f05a0529f534b324",
+        "id": "d3f7220f1800fa6a",
         "type": "tabs",
         "children": [
           {
-            "id": "e1ef51536b94918b",
+            "id": "41318bb8a122a36d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -177,8 +177,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "e1ef51536b94918b",
+  "active": "41318bb8a122a36d",
   "lastOpenFiles": [
+    "00 - Home/Orphaned Concepts.md",
+    "PUBLISHING.md",
+    "09 - Data & Analytics/A/B Testing.md",
+    "quartz.layout.ts",
     "01 - Finance/Valuation/Terminal Value.md",
     "02 - Strategy/SWOT Analysis.md",
     "Clayton Christensen.md",
@@ -195,7 +199,6 @@
     "_build_test_env/quartz/plugins/transformers/oxhugofm.ts",
     "_build_test_env/quartz/plugins/transformers/ofm.ts",
     "_build_test_env/quartz/plugins/transformers/links.ts",
-    "_build_test_env/quartz/plugins/transformers/linebreaks.ts",
     "_build_test_env/quartz/static/og-image.png",
     "_build_test_env/quartz/static/icon.png",
     "_build_test_env/docs/tags/plugin.md",
@@ -214,9 +217,6 @@
     "_build_test_env/docs/plugins/HardLineBreaks.md",
     "_build_test_env/docs/plugins/GitHubFlavoredMarkdown.md",
     "_build_test_env/docs/plugins/Frontmatter.md",
-    "_build_test_env/docs/plugins/FolderPage.md",
-    "_build_test_env/docs/plugins/Favicon.md",
-    "_build_test_env/docs/plugins/ExplicitPublish.md",
     "_build_test_env/docs/images/social-image-preview-light.png",
     "_build_test_env/docs/images/social-image-preview-dark.png",
     "_build_test_env/docs/images/quartz-layout-tablet.png",

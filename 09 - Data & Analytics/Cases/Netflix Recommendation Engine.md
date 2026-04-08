@@ -1,6 +1,10 @@
 ---
 title: Netflix Recommendation Engine
 tags: [case-study, data-analytics]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Netflix Recommendation Engine

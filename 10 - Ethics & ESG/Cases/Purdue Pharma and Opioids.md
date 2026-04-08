@@ -1,6 +1,10 @@
 ---
 title: Purdue Pharma and Opioids
 tags: [case-study, ethics]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Purdue Pharma and Opioids

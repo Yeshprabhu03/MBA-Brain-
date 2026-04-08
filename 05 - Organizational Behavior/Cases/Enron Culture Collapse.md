@@ -1,6 +1,10 @@
 ---
 title: Enron Culture Collapse
 tags: [case-study, organizational-behavior, ethics, culture]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Enron's Culture Collapse

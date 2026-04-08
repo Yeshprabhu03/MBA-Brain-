@@ -1,6 +1,10 @@
 ---
 title: Google Hiring Algorithm
 tags: [case-study, data-analytics]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Google Hiring Algorithm

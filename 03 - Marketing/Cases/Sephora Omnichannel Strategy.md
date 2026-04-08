@@ -1,6 +1,10 @@
 ---
 title: Sephora Omnichannel Strategy
 tags: [case-study, marketing]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Sephora Omnichannel Strategy

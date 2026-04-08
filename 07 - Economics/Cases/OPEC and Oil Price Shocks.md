@@ -1,6 +1,10 @@
 ---
 title: OPEC and Oil Price Shocks
 tags: [case-study, economics, game-theory, cartels]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 OPEC and Oil Price Shocks

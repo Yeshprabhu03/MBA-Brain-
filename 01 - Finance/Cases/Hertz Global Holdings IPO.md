@@ -1,6 +1,10 @@
 ---
 title: Hertz Global Holdings IPO
 tags: [case-study, finance]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Hertz Global Holdings IPO

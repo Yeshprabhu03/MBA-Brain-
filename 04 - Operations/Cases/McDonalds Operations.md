@@ -1,6 +1,10 @@
 ---
 title: McDonalds Operations
 tags: [case-study, operations]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 McDonalds Operations

@@ -123,6 +123,39 @@ Never present a single DCF number. Always run a **sensitivity table**:
 | TV | 1,997 | 0.621 | 1,240 |
 | **EV** | | | **$1,677.8M** |
 
+### 💻 Practitioner Python Implementation
+
+```python
+import numpy as np
+
+def run_dcf(fcff_list, wacc, terminal_growth):
+    """Runs a standard 5-year DCF using the Gordon Growth Model"""
+    # 1. Discount explicit cash flows
+    discount_factors = [(1 + wacc)**t for t in range(1, len(fcff_list) + 1)]
+    pv_fcff = sum(fcff / df for fcff, df in zip(fcff_list, discount_factors))
+    
+    # 2. Calculate Terminal Value
+    final_fcff = fcff_list[-1]
+    terminal_value = (final_fcff * (1 + terminal_growth)) / (wacc - terminal_growth)
+    
+    # 3. Discount Terminal Value
+    pv_tv = terminal_value / discount_factors[-1]
+    
+    # 4. Enterprise Value
+    enterprise_value = pv_fcff + pv_tv
+    return enterprise_value, pv_fcff, pv_tv
+
+# Scenario: $100M base FCF growing at 8% for 5 years
+fcf = [100.0, 108.0, 116.6, 125.9, 136.0]
+wacc = 0.10
+g = 0.03
+
+ev, pv_fcf, pv_tv = run_dcf(fcf, wacc, g)
+print(f"PV of Cash Flows: ${pv_fcf:.1f}M")
+print(f"PV of Terminal Value: ${pv_tv:.1f}M ({(pv_tv/ev):.1%} of Total)")
+print(f"Total Enterprise Value: ${ev:.1f}M")
+```
+
 ---
 
 ## 🔗 Connected Concepts

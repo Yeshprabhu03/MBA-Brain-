@@ -1,6 +1,10 @@
 ---
 title: Tesla 2020 Capital Raise
 tags: [case-study, finance]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Tesla 2020 Capital Raise

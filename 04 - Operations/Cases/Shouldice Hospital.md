@@ -1,6 +1,10 @@
 ---
 title: Shouldice Hospital
 tags: [case-study, operations]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Shouldice Hospital

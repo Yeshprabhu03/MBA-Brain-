@@ -1,6 +1,10 @@
 ---
 title: Dell Leverage Recapitalization
 tags: [case-study, finance]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Dell Leverage Recapitalization

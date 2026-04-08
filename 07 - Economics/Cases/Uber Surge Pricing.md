@@ -1,6 +1,10 @@
 ---
 title: Uber Surge Pricing
 tags: [case-study, economics]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Uber Surge Pricing

@@ -1,6 +1,10 @@
 ---
 title: Patagonia Environmental Activism
 tags: [case-study, ethics]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Patagonia Environmental Activism

@@ -42,6 +42,7 @@ Covering: **HBS · Wharton · Booth · Kellogg · Stanford GSB · Columbia**
 - [[🔧 Frameworks MOC]] — Porter's 5 Forces, BCG, McKinsey 7S, and 15+ more
 - [[📚 Case Studies MOC]] — Real case breakdowns from HBS, GSB, Wharton
 - [[🏫 Schools & Professors MOC]] — Per-school curriculum, professors, culture
+- [[Orphaned Concepts]] — Audit maintenance list of isolated notes
 
 ---
 

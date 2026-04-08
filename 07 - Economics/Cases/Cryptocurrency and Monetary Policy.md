@@ -1,6 +1,10 @@
 ---
 title: Cryptocurrency and Monetary Policy
 tags: [case-study, economics]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Cryptocurrency and Monetary Policy

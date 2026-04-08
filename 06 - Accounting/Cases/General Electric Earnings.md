@@ -1,6 +1,10 @@
 ---
 title: General Electric Earnings
 tags: [case-study, accounting]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 General Electric Earnings

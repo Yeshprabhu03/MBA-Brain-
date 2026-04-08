@@ -1,6 +1,10 @@
 ---
 title: Nike Sweatshop Crisis
 tags: [case-study, ethics]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Nike Sweatshop Crisis

@@ -1,6 +1,10 @@
 ---
 title: Target Pregnancy Prediction
 tags: [case-study, data-analytics, predictive-analytics, privacy]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Target's Pregnancy Prediction Model

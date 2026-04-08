@@ -1,6 +1,10 @@
 ---
 title: De Beers Diamond Monopoly
 tags: [case-study, economics]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 De Beers Diamond Monopoly

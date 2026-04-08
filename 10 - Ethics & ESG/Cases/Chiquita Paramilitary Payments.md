@@ -1,6 +1,10 @@
 ---
 title: Chiquita Paramilitary Payments
 tags: [case-study, ethics]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Chiquita Paramilitary Payments

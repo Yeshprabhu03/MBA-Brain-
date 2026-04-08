@@ -1,6 +1,10 @@
 ---
 title: Warby Parker Launch
 tags: [case-study, entrepreneurship]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Warby Parker Launch

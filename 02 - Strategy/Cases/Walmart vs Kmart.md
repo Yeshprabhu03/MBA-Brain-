@@ -1,6 +1,10 @@
 ---
 title: Walmart vs Kmart
 tags: [case-study, strategy]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Walmart vs Kmart

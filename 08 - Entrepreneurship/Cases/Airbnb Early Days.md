@@ -1,6 +1,10 @@
 ---
 title: Airbnb Early Days
 tags: [case-study, entrepreneurship, pmf, founder-hustle]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Airbnb's Early Days — Finding Product-Market Fit

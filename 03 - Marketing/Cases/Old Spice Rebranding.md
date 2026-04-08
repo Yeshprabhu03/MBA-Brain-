@@ -1,6 +1,10 @@
 ---
 title: Old Spice Rebranding
 tags: [case-study, marketing]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Old Spice Rebranding

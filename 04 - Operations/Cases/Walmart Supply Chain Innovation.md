@@ -1,6 +1,10 @@
 ---
 title: Walmart Supply Chain Innovation
 tags: [case-study, operations]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Walmart Supply Chain Innovation

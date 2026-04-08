@@ -1,6 +1,10 @@
 ---
 title: China Economic Rise
 tags: [case-study, economics]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 China Economic Rise

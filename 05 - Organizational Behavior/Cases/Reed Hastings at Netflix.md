@@ -1,6 +1,10 @@
 ---
 title: Reed Hastings at Netflix
 tags: [case-study, organizational-behavior]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Reed Hastings at Netflix

@@ -1,6 +1,10 @@
 ---
 title: BP Deepwater Horizon
 tags: [case-study, ethics]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 BP Deepwater Horizon

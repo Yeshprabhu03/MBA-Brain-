@@ -1,6 +1,10 @@
 ---
 title: Lucent Technologies
 tags: [case-study, accounting]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Lucent Technologies

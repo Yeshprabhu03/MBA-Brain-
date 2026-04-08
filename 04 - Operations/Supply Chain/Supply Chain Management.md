@@ -14,18 +14,18 @@ aliases: [SCM, supply chain, logistics]
 
 ## 🗺️ The Supply Chain Structure
 
-```
-[Raw Material Suppliers]
-        ↓
-[Component Manufacturers]
-        ↓
-[Manufacturers / Assemblers]
-        ↓
-[Distributors / Wholesalers]
-        ↓
-[Retailers / Direct-to-Consumer]
-        ↓
-[End Customers]
+```mermaid
+flowchart TD
+    RM[📦 Raw Material Suppliers] -->|Materials + Info| CM[⚙️ Component Manufacturers]
+    CM -->|Materials + Info| MA[🏭 Manufacturers / Assemblers]
+    MA -->|Goods + Info| DW[🚛 Distributors / Wholesalers]
+    DW -->|Goods + Info| RT[🏬 Retailers / DTC]
+    RT -->|Products| EC[🛒 End Customers]
+    
+    %% Reverse flows (money/demand)
+    EC -.->|Demand + Capital| DW
+    DW -.->|Orders + Capital| MA
+    MA -.->|Orders + Capital| RM
 ```
 
 Each arrow represents **flows of**: Materials + Information + Finances

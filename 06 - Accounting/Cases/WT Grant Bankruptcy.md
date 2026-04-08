@@ -1,6 +1,10 @@
 ---
 title: WT Grant Bankruptcy
 tags: [case-study, accounting]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 WT Grant Bankruptcy

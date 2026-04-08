@@ -1,6 +1,10 @@
 ---
 title: Apple Platform Strategy Case
 tags: [case-study, strategy, platform, innovation]
+company: 
+industry: 
+challenge: 
+year: 
 aliases: [Apple strategy, Apple ecosystem, Jobs strategy]
 ---
 

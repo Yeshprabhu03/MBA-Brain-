@@ -1,6 +1,10 @@
 ---
 title: Kodak Digital Failure
 tags: [case-study, strategy]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Kodak Digital Failure

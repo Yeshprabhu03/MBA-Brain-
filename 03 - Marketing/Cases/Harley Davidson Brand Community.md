@@ -1,6 +1,10 @@
 ---
 title: Harley Davidson Brand Community
 tags: [case-study, marketing]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Harley Davidson Brand Community

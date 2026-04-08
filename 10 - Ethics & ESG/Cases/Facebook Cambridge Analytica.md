@@ -1,6 +1,10 @@
 ---
 title: Facebook Cambridge Analytica
 tags: [case-study, ethics]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Facebook Cambridge Analytica

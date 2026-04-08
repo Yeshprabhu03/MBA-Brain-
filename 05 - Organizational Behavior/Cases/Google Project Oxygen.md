@@ -1,6 +1,10 @@
 ---
 title: Google Project Oxygen
 tags: [case-study, organizational-behavior, leadership, management]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Google's Project Oxygen

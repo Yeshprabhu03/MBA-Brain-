@@ -1,6 +1,10 @@
 ---
 title: Glossier DTC Model
 tags: [case-study, marketing]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Glossier DTC Model

@@ -1,6 +1,10 @@
 ---
 title: RJR Nabisco LBO
 tags: [case-study, finance]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 RJR Nabisco LBO

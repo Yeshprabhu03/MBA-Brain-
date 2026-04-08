@@ -1,6 +1,10 @@
 ---
 title: Y Combinator Model
 tags: [case-study, entrepreneurship]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Y Combinator Model

@@ -1,6 +1,10 @@
 ---
 title: Xerox Revenue Recognition
 tags: [case-study, accounting]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Xerox Revenue Recognition

@@ -1,6 +1,10 @@
 ---
 title: Midland Energy Resources
 tags: [case-study, finance]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Midland Energy Resources

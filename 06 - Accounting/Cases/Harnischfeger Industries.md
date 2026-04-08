@@ -1,6 +1,10 @@
 ---
 title: Harnischfeger Industries
 tags: [case-study, accounting]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Harnischfeger Industries

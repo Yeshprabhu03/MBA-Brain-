@@ -1,6 +1,10 @@
 ---
 title: Marriott Corporation - The Cost of Capital
 tags: [case-study, finance, wacc, capital-structure]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Marriott Corporation: The Cost of Capital

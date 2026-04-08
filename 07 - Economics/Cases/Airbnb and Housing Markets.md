@@ -1,6 +1,10 @@
 ---
 title: Airbnb and Housing Markets
 tags: [case-study, economics]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Airbnb and Housing Markets

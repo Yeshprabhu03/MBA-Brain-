@@ -1,6 +1,10 @@
 ---
 title: Snap IPO Decision
 tags: [case-study, entrepreneurship]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Snap IPO Decision

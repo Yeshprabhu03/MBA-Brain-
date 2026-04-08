@@ -1,6 +1,10 @@
 ---
 title: Zara Supply Chain
 tags: [case-study, operations, supply-chain, fast-fashion]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Zara's Supply Chain: Fast Fashion Revolution

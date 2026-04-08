@@ -1,6 +1,10 @@
 ---
 title: Volkswagen Emissions Scandal
 tags: [case-study, ethics, corporate-governance, fraud]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Volkswagen Emissions Scandal (Dieselgate)

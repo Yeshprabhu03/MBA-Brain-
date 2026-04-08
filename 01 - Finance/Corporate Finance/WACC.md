@@ -72,6 +72,37 @@ Company: 60% equity / 40% debt, T = 25%, re = 11%, rd = 6%
 $$WACC = 0.60 \times 11\% + 0.40 \times 6\% \times (1 - 0.25)$$
 $$WACC = 6.6\% + 1.8\% = 8.4\%$$
 
+### 💻 Practitioner Python Implementation
+
+```python
+def calculate_wacc(equity_val, debt_val, cost_equity, cost_debt, tax_rate):
+    """Calculates the Weighted Average Cost of Capital"""
+    total_val = equity_val + debt_val
+    
+    # Weights
+    w_e = equity_val / total_val
+    w_d = debt_val / total_val
+    
+    # After-tax cost of debt
+    after_tax_debt = cost_debt * (1 - tax_rate)
+    
+    # WACC Calculation
+    wacc = (w_e * cost_equity) + (w_d * after_tax_debt)
+    
+    return wacc
+
+# Example inputs (in millions)
+e_val = 600   # 60% weight
+d_val = 400   # 40% weight
+r_e = 0.11    # Cost of equity via CAPM
+r_d = 0.06    # YTM on debt
+t = 0.25      # Corporate tax rate
+
+wacc_result = calculate_wacc(e_val, d_val, r_e, r_d, t)
+print(f"Proprietary WACC: {wacc_result:.2%}")
+# Output: Proprietary WACC: 8.40%
+```
+
 ---
 
 ## 🎯 What WACC Tells Us

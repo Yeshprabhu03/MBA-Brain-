@@ -1,6 +1,10 @@
 ---
 title: IKEA Business System
 tags: [case-study, strategy]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 IKEA Business System

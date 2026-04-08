@@ -1,6 +1,10 @@
 ---
 title: Satya Nadella at Microsoft
 tags: [case-study, organizational-behavior, culture-change, leadership]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Satya Nadella at Microsoft: Culture Change and the Growth Mindset

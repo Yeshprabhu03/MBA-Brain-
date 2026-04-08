@@ -1,6 +1,10 @@
 ---
 title: Toyota Production System Case
 tags: [case-study, operations, lean, kaizen]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Toyota Production System (TPS)

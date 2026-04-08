@@ -1,6 +1,10 @@
 ---
 title: Slack Pivot
 tags: [case-study, entrepreneurship]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Slack Pivot

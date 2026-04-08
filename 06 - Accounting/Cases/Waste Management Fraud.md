@@ -1,6 +1,10 @@
 ---
 title: Waste Management Fraud
 tags: [case-study, accounting]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Waste Management Fraud

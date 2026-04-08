@@ -1,6 +1,10 @@
 ---
 title: Benihana of Tokyo
 tags: [case-study, operations]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Benihana of Tokyo

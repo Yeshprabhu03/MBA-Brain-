@@ -15,12 +15,14 @@ aliases: [5 forces, Five Forces, industry analysis]
 
 ## 🔑 The Five Forces
 
-```
-                    New Entrants
-                         ↓
-    Suppliers ←→ [INDUSTRY RIVALRY] ←→ Buyers
-                         ↑
-                    Substitutes
+```mermaid
+flowchart TD
+    E[🏭 Threat of New Entrants] --> R((⚔️ Industry Rivalry))
+    S[🏗️ Bargaining Power of Suppliers] <--> R
+    B[💼 Bargaining Power of Buyers] <--> R
+    Sub[🔄 Threat of Substitutes] --> R
+    
+    style R fill:#f9f,stroke:#333,stroke-width:2px
 ```
 
 ---

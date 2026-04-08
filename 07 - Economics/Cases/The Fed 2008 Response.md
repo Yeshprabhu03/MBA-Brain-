@@ -1,6 +1,10 @@
 ---
 title: The Fed 2008 Response
 tags: [case-study, economics]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 The Fed 2008 Response

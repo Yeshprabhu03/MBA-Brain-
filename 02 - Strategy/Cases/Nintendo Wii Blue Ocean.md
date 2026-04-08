@@ -1,6 +1,10 @@
 ---
 title: Nintendo Wii Blue Ocean
 tags: [case-study, strategy]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Nintendo Wii Blue Ocean

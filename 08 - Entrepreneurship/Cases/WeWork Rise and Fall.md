@@ -1,6 +1,10 @@
 ---
 title: WeWork Rise and Fall
 tags: [case-study, entrepreneurship, valuation, founder-risk]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 WeWork: Rise and Fall

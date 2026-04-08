@@ -1,6 +1,10 @@
 ---
 title: Cola Wars Coca-Cola vs Pepsi
 tags: [case-study, marketing]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Cola Wars Coca-Cola vs Pepsi

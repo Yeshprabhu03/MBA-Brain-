@@ -1,6 +1,10 @@
 ---
 title: Enron The Smartest Guys in the Room
 tags: [case-study, accounting]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Enron The Smartest Guys in the Room

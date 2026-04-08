@@ -1,6 +1,10 @@
 ---
 title: Dollar Shave Club
 tags: [case-study, marketing]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Dollar Shave Club

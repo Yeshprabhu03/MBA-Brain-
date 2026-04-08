@@ -1,6 +1,10 @@
 ---
 title: Spanx Sara Blakely
 tags: [case-study, entrepreneurship]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Spanx Sara Blakely

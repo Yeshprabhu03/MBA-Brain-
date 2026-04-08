@@ -1,6 +1,10 @@
 ---
 title: Amazon Hiring Algorithm Bias
 tags: [case-study, data-analytics]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Amazon Hiring Algorithm Bias

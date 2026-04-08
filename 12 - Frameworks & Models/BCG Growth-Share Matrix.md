@@ -14,19 +14,20 @@ aliases: [BCG Matrix, growth-share matrix, portfolio matrix]
 
 ## 🔑 The Four Quadrants
 
-```
-                HIGH            LOW
-           ┌────────────┬────────────┐
-    HIGH   │  ⭐ STARS   │  ❓ QUESTION│
-    Market │            │   MARKS    │
-    Growth │            │            │
-           ├────────────┼────────────┤
-    LOW    │ 🐄 CASH    │ 🐕 DOGS    │
-    Market │   COWS     │            │
-    Growth │            │            │
-           └────────────┴────────────┘
-             HIGH Market   LOW Market
-               Share        Share
+```mermaid
+quadrantChart
+    title BCG Growth-Share Matrix
+    x-axis Low Market Share --> High Market Share
+    y-axis Low Market Growth --> High Market Growth
+    quadrant-1 ❓ Question Marks
+    quadrant-2 ⭐ Stars
+    quadrant-3 🐄 Cash Cows
+    quadrant-4 🐕 Dogs
+    "Apple TV+": [0.25, 0.75]
+    "iPhone": [0.85, 0.25]
+    "Mac": [0.75, 0.35]
+    "Services": [0.8, 0.85]
+    "iPod (Retired)": [0.15, 0.15]
 ```
 
 ---

@@ -1,6 +1,10 @@
 ---
 title: Amazon Fulfillment Network
 tags: [case-study, operations]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Amazon Fulfillment Network

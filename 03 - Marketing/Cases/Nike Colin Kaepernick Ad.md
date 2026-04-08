@@ -1,6 +1,10 @@
 ---
 title: Nike Colin Kaepernick Ad
 tags: [case-study, marketing]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Nike Colin Kaepernick Ad

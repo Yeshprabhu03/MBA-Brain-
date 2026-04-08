@@ -1,6 +1,10 @@
 ---
 title: WorldCom Fraud
 tags: [case-study, accounting, fraud, revenue-recognition]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 WorldCom Fraud

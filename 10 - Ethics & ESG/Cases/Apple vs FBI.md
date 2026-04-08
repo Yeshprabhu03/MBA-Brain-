@@ -1,6 +1,10 @@
 ---
 title: Apple vs FBI
 tags: [case-study, ethics]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Apple vs FBI

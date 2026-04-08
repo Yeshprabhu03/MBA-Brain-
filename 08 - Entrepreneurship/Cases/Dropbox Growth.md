@@ -1,6 +1,10 @@
 ---
 title: Dropbox Growth
 tags: [case-study, entrepreneurship]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Dropbox Growth

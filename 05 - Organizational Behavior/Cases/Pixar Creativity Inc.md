@@ -1,6 +1,10 @@
 ---
 title: Pixar Creativity Inc
 tags: [case-study, organizational-behavior]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Pixar Creativity Inc

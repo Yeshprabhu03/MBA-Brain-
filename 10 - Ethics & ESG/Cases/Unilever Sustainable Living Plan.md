@@ -1,6 +1,10 @@
 ---
 title: Unilever Sustainable Living Plan
 tags: [case-study, ethics]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Unilever Sustainable Living Plan

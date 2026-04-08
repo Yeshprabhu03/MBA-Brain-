@@ -1,6 +1,10 @@
 ---
 title: Airthread Connections
 tags: [case-study, finance]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Airthread Connections

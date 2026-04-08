@@ -1,6 +1,10 @@
 ---
 title: Ford vs Ferrari Iacocca
 tags: [case-study, organizational-behavior]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Ford vs Ferrari Iacocca

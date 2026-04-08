@@ -1,6 +1,10 @@
 ---
 title: Boeing 787 Dreamliner Delays
 tags: [case-study, operations]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Boeing 787 Dreamliner Delays

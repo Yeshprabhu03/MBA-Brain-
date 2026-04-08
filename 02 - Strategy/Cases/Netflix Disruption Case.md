@@ -1,6 +1,10 @@
 ---
 title: Netflix Disruption Case
 tags: [case-study, strategy, disruption, entertainment]
+company: 
+industry: 
+challenge: 
+year: 
 aliases: [Netflix case, streaming disruption]
 school: HBS, Stanford GSB
 ---

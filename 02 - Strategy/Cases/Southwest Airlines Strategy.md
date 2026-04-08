@@ -1,6 +1,10 @@
 ---
 title: Southwest Airlines Strategy
 tags: [case-study, strategy, operations, porter]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Southwest Airlines: Operational Strategy

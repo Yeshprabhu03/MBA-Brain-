@@ -1,6 +1,10 @@
 ---
 title: Amazon Flywheel Case
 tags: [case-study, strategy, operations, platform]
+company: 
+industry: 
+challenge: 
+year: 
 aliases: [Amazon virtuous cycle, Amazon flywheel, Bezos flywheel]
 ---
 

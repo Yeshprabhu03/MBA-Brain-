@@ -1,6 +1,10 @@
 ---
 title: BlackBerry Decline
 tags: [case-study, strategy]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 BlackBerry Decline

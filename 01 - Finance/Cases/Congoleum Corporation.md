@@ -1,6 +1,10 @@
 ---
 title: Congoleum Corporation
 tags: [case-study, finance]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Congoleum Corporation

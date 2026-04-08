@@ -1,6 +1,10 @@
 ---
 title: Google Project Aristotle
 tags: [case-study, organizational-behavior]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Google Project Aristotle

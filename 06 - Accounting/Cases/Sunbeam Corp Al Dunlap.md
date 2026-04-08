@@ -1,6 +1,10 @@
 ---
 title: Sunbeam Corp Al Dunlap
 tags: [case-study, accounting]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Sunbeam Corp Al Dunlap

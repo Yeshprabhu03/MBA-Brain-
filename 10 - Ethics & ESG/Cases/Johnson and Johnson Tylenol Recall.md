@@ -1,6 +1,10 @@
 ---
 title: Johnson and Johnson Tylenol Recall
 tags: [case-study, ethics, crisis-management, stakeholder-theory]
+company: 
+industry: 
+challenge: 
+year: 
 ---
 
 # 📚 Johnson & Johnson: The Tylenol Recall (1982)
