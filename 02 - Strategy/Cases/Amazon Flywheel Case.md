@@ -167,4 +167,4 @@ This is "coopetition" at massive scale — a strategic tension.
 
 ---
 
-*← [[📚 Case Studies MOC]] | Related: [[Platform Strategy]] · [[Disruptive Innovation]] · [[Netflix Disruption Case]]*
+*← [[🎯 Strategy MOC]] | [[📚 Case Studies MOC]]*

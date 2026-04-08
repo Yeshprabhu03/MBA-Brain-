@@ -73,4 +73,22 @@ tags: [moc, ethics, esg]
 
 ---
 
+
+---
+
+## 📚 Case Studies
+
+- [[Apple vs FBI]]
+- [[BP Deepwater Horizon]]
+- [[Chiquita Paramilitary Payments]]
+- [[Facebook Cambridge Analytica]]
+- [[Johnson and Johnson Tylenol Recall]]
+- [[Nike Sweatshop Crisis]]
+- [[Patagonia Environmental Activism]]
+- [[Purdue Pharma and Opioids]]
+- [[Unilever Sustainable Living Plan]]
+- [[Volkswagen Emissions Scandal]]
+
+---
+
 *← [[🏠 Dashboard]] | Next: [[🔧 Frameworks MOC]] →*

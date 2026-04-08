@@ -2,7 +2,9 @@
   "accentColor": "",
   "baseFontSize": 16,
   "cssTheme": "default",
-  "enabledCssSnippets": [],
+  "enabledCssSnippets": [
+    "subject-colors"
+  ],
   "interfaceFontFamily": "",
   "monospaceFontFamily": "",
   "nativeMenus": false,

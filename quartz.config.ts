@@ -14,7 +14,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "your-github-username.github.io/mba-brain",  // ← UPDATE THIS
+    baseUrl: "Yeshprabhu03.github.io/MBA-Brain-",  // ← UPDATE THIS
     ignorePatterns: [
       "private",
       "Templates",

@@ -136,4 +136,4 @@ The Moneyball logic applies wherever:
 
 ---
 
-*← [[📚 Case Studies MOC]] | [[📉 Data & Analytics MOC]]*
+*← [[📉 Data & Analytics MOC]] | [[📚 Case Studies MOC]]*

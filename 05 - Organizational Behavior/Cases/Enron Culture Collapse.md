@@ -125,4 +125,4 @@ Watkins became one of Time's "Persons of the Year" in 2002, but her warning was 
 
 ---
 
-*← [[📚 Case Studies MOC]] | [[👥 Organizational Behavior MOC]] | [[⚖️ Ethics & ESG MOC]]*
+*← [[👥 Organizational Behavior MOC]] | [[📚 Case Studies MOC]]*

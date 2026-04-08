@@ -140,4 +140,4 @@ WeWork was valued at **12× its closest public comparable** — because it was f
 
 ---
 
-*← [[📚 Case Studies MOC]] | [[🚀 Entrepreneurship MOC]]*
+*← [[🚀 Entrepreneurship MOC]] | [[📚 Case Studies MOC]]*

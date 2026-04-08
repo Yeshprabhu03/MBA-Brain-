@@ -124,4 +124,4 @@ Netflix pioneered using *viewing data* to make content decisions:
 
 ---
 
-*← [[📚 Case Studies MOC]] | Related: [[Disruptive Innovation]] · [[Platform Strategy]] · [[Competitive Advantage]]*
+*← [[🎯 Strategy MOC]] | [[📚 Case Studies MOC]]*

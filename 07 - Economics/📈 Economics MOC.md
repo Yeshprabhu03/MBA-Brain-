@@ -84,4 +84,22 @@ tags: [moc, economics]
 
 ---
 
+
+---
+
+## 📚 Case Studies
+
+- [[Airbnb and Housing Markets]]
+- [[Amazon and Monopsony Power]]
+- [[China Economic Rise]]
+- [[Cryptocurrency and Monetary Policy]]
+- [[De Beers Diamond Monopoly]]
+- [[Kenya M-Pesa]]
+- [[OPEC and Oil Price Shocks]]
+- [[The Fed 2008 Response]]
+- [[US Steel Industry Decline]]
+- [[Uber Surge Pricing]]
+
+---
+
 *← [[🏠 Dashboard]] | Next: [[🚀 Entrepreneurship MOC]] →*

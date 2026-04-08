@@ -87,4 +87,22 @@ tags: [moc, marketing]
 
 ---
 
+
+---
+
+## 📚 Case Studies
+
+- [[Airbnb Growth Hacking]]
+- [[Cola Wars Coca-Cola vs Pepsi]]
+- [[Dollar Shave Club]]
+- [[Dove Real Beauty Campaign]]
+- [[Glossier DTC Model]]
+- [[Harley Davidson Brand Community]]
+- [[Nike Colin Kaepernick Ad]]
+- [[Old Spice Rebranding]]
+- [[Sephora Omnichannel Strategy]]
+- [[Starbucks Delivering Customer Service]]
+
+---
+
 *← [[🏠 Dashboard]] | Next: [[⚙️ Operations MOC]] →*

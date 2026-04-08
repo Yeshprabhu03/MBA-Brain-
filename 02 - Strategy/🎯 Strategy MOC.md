@@ -89,4 +89,22 @@ How multi-business companies create value:
 
 ---
 
+
+---
+
+## 📚 Case Studies
+
+- [[Amazon Flywheel Case]]
+- [[Apple Platform Strategy Case]]
+- [[BlackBerry Decline]]
+- [[IKEA Business System]]
+- [[Kodak Digital Failure]]
+- [[Netflix Disruption Case]]
+- [[Nintendo Wii Blue Ocean]]
+- [[Southwest Airlines Strategy]]
+- [[Spotify vs Record Labels]]
+- [[Walmart vs Kmart]]
+
+---
+
 *← [[🏠 Dashboard]] | Next: [[📣 Marketing MOC]] →*

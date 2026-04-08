@@ -148,4 +148,4 @@ The TPS spawned entire industries:
 
 ---
 
-*← [[📚 Case Studies MOC]] | [[⚙️ Operations MOC]]*
+*← [[⚙️ Operations MOC]] | [[📚 Case Studies MOC]]*

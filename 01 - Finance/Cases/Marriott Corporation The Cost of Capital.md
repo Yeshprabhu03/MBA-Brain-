@@ -140,4 +140,4 @@ Marriott uses **target** (not current) capital structure:
 
 ---
 
-*← [[📚 Case Studies MOC]] | [[📊 Finance MOC]]*
+*← [[📊 Finance MOC]] | [[📚 Case Studies MOC]]*

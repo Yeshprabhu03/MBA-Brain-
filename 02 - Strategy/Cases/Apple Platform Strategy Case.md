@@ -165,4 +165,4 @@ Tim Cook's era: Services = recurring revenue on installed base
 
 ---
 
-*← [[📚 Case Studies MOC]] | Related: [[Amazon Flywheel Case]] · [[Netflix Disruption Case]] · [[Platform Strategy]]*
+*← [[🎯 Strategy MOC]] | [[📚 Case Studies MOC]]*

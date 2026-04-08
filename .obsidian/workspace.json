@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b2f0f7ddfbe6a435",
+        "id": "ff4cd7cdf8547729",
         "type": "tabs",
         "children": [
           {
-            "id": "4aefb94a17e7e504",
+            "id": "3c856d2cc0087115",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08 - Entrepreneurship/🚀 Entrepreneurship MOC.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🚀 Entrepreneurship MOC"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -154,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11 - Case Studies/Entrepreneurship/WeWork Rise and Fall.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of WeWork Rise and Fall"
+              "title": "Outline"
             }
           }
         ]
@@ -181,43 +176,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "0cae45560b93d91f",
+  "active": "3c856d2cc0087115",
   "lastOpenFiles": [
-    "02 - Strategy/Cases/Apple Platform Strategy Case.md",
-    "02 - Strategy/Cases/Amazon Flywheel Case.md",
-    "02 - Strategy/Cases/Netflix Disruption Case.md",
-    "10 - Ethics & ESG/Cases/BP Deepwater Horizon.md",
-    "10 - Ethics & ESG/Cases/Patagonia Environmental Activism.md",
-    "10 - Ethics & ESG/Cases/Volkswagen Emissions Scandal.md",
-    "10 - Ethics & ESG/Cases/Johnson and Johnson Tylenol Recall.md",
     "10 - Ethics & ESG/Cases/Apple vs FBI.md",
-    "10 - Ethics & ESG/Cases/Chiquita Paramilitary Payments.md",
     "10 - Ethics & ESG/Cases/Nike Sweatshop Crisis.md",
-    "10 - Ethics & ESG/Cases/Unilever Sustainable Living Plan.md",
-    "10 - Ethics & ESG/Cases/Purdue Pharma and Opioids.md",
-    "10 - Ethics & ESG/Cases/Facebook Cambridge Analytica.md",
+    "10 - Ethics & ESG/Ethical Frameworks.md",
+    "10 - Ethics & ESG/⚖️ Ethics & ESG MOC.md",
+    "06 - Accounting/Financial Accounting/Income Statement.md",
+    "04 - Operations/Critical Path Method.md",
+    "Diversification Strategy.md",
+    "09 - Data & Analytics/A-B Testing.md",
+    "09 - Data & Analytics/AB Testing.md",
+    "00 - Home/Risk Management.md",
+    "00 - Home/Venture Capital Overview.md",
+    "00 - Home/Operations Management.md",
+    "12 - Frameworks & Models/Scenario Planning.md",
+    "12 - Frameworks & Models/Kotter's 8-Step Model.md",
+    "12 - Frameworks & Models/Issue Tree.md",
+    "12 - Frameworks & Models/MECE Principle.md",
+    "10 - Ethics & ESG/Shareholder Primacy vs. Stakeholder Capitalism.md",
+    "10 - Ethics & ESG/Net Zero Strategies.md",
+    "10 - Ethics & ESG/Impact Investing.md",
+    "10 - Ethics & ESG/ESG Ratings.md",
+    "10 - Ethics & ESG/Diversity, Equity & Inclusion.md",
+    "10 - Ethics & ESG/Corporate Social Responsibility.md",
+    "10 - Ethics & ESG/Circular Economy.md",
+    "10 - Ethics & ESG/Carbon Pricing.md",
+    "10 - Ethics & ESG/Anti-Corruption & Compliance.md",
+    "08 - Entrepreneurship/Unit Economics.md",
+    "_fill_cases_batch3.py",
+    "_fill_cases_batch2.py",
+    "_fill_cases_batch1.py",
     "10 - Ethics & ESG/Cases",
-    "09 - Data & Analytics/Cases/Google Hiring Algorithm.md",
-    "09 - Data & Analytics/Cases/IBM Watson in Healthcare.md",
-    "09 - Data & Analytics/Cases/Zillow iBuying Failure.md",
-    "09 - Data & Analytics/Cases/Amazon Hiring Algorithm Bias.md",
-    "09 - Data & Analytics/Cases/Moneyball Oakland As.md",
-    "09 - Data & Analytics/Cases/Palantir Government Contracts.md",
-    "09 - Data & Analytics/Cases/Capital One Data Strategy.md",
-    "09 - Data & Analytics/Cases/UPS ORION Routing.md",
-    "09 - Data & Analytics/Cases/Target Pregnancy Prediction.md",
-    "09 - Data & Analytics/Cases/Netflix Recommendation Engine.md",
     "09 - Data & Analytics/Cases",
-    "08 - Entrepreneurship/Cases/Airbnb Early Days.md",
-    "08 - Entrepreneurship/Cases/Warby Parker Launch.md",
-    "08 - Entrepreneurship/Cases/Slack Pivot.md",
     "08 - Entrepreneurship/Cases",
     "07 - Economics/Cases",
     "06 - Accounting/Cases",
     "05 - Organizational Behavior/Cases",
-    "04 - Operations/Cases",
-    "03 - Marketing/Cases",
-    "02 - Strategy/Cases",
-    "01 - Finance/Cases"
+    "04 - Operations/Cases"
   ]
 }

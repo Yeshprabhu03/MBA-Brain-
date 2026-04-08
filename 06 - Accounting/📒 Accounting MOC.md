@@ -88,4 +88,22 @@ The three financial statements tell the complete story of a business:
 
 ---
 
+
+---
+
+## 📚 Case Studies
+
+- [[Enron The Smartest Guys in the Room]]
+- [[General Electric Earnings]]
+- [[Harnischfeger Industries]]
+- [[Lehman Brothers Repo 105]]
+- [[Lucent Technologies]]
+- [[Sunbeam Corp Al Dunlap]]
+- [[WT Grant Bankruptcy]]
+- [[Waste Management Fraud]]
+- [[WorldCom Fraud]]
+- [[Xerox Revenue Recognition]]
+
+---
+
 *← [[🏠 Dashboard]] | Next: [[📈 Economics MOC]] →*

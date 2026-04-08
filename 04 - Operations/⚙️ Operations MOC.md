@@ -79,4 +79,22 @@ tags: [moc, operations]
 
 ---
 
+
+---
+
+## 📚 Case Studies
+
+- [[Amazon Fulfillment Network]]
+- [[Benihana of Tokyo]]
+- [[Boeing 787 Dreamliner Delays]]
+- [[Dell Build-to-Order Model]]
+- [[McDonalds Operations]]
+- [[Shouldice Hospital]]
+- [[Sport Obermeyer]]
+- [[Toyota Production System Case]]
+- [[Walmart Supply Chain Innovation]]
+- [[Zara Supply Chain]]
+
+---
+
 *← [[🏠 Dashboard]] | Next: [[👥 Organizational Behavior MOC]] →*

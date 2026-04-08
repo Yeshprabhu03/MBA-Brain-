@@ -91,4 +91,21 @@ tags: [moc, organizational-behavior, leadership]
 
 ---
 
+
+---
+
+## 📚 Case Studies
+
+- [[Enron Culture Collapse]]
+- [[Ford vs Ferrari Iacocca]]
+- [[Google Project Aristotle]]
+- [[Google Project Oxygen]]
+- [[IBM Turnaround under Gerstner]]
+- [[Pixar Creativity Inc]]
+- [[Reed Hastings at Netflix]]
+- [[Satya Nadella at Microsoft]]
+- [[Theranos Founder Psychology]]
+
+---
+
 *← [[🏠 Dashboard]] | Next: [[📒 Accounting MOC]] →*

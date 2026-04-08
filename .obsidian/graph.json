@@ -5,18 +5,110 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path: \"01 - Finance\"",
+      "color": {
+        "a": 1,
+        "rgb": 16766720
+      }
+    },
+    {
+      "query": "path: \"02 - Strategy\"",
+      "color": {
+        "a": 1,
+        "rgb": 3900150
+      }
+    },
+    {
+      "query": "path: \"03 - Marketing\"",
+      "color": {
+        "a": 1,
+        "rgb": 15485081
+      }
+    },
+    {
+      "query": "path: \"04 - Operations\"",
+      "color": {
+        "a": 1,
+        "rgb": 1095937
+      }
+    },
+    {
+      "query": "path: \"05 - Organizational Behavior\"",
+      "color": {
+        "a": 1,
+        "rgb": 9133302
+      }
+    },
+    {
+      "query": "path: \"06 - Accounting\"",
+      "color": {
+        "a": 1,
+        "rgb": 16347926
+      }
+    },
+    {
+      "query": "path: \"07 - Economics\"",
+      "color": {
+        "a": 1,
+        "rgb": 440020
+      }
+    },
+    {
+      "query": "path: \"08 - Entrepreneurship\"",
+      "color": {
+        "a": 1,
+        "rgb": 1357990
+      }
+    },
+    {
+      "query": "path: \"09 - Data & Analytics\"",
+      "color": {
+        "a": 1,
+        "rgb": 6514417
+      }
+    },
+    {
+      "query": "path: \"10 - Ethics & ESG\"",
+      "color": {
+        "a": 1,
+        "rgb": 8703014
+      }
+    },
+    {
+      "query": "path: \"11 - Case Studies\"",
+      "color": {
+        "a": 1,
+        "rgb": 15680580
+      }
+    },
+    {
+      "query": "path: \"12 - Frameworks & Models\"",
+      "color": {
+        "a": 1,
+        "rgb": 6583435
+      }
+    },
+    {
+      "query": "path: \"13 - Schools & Professors\"",
+      "color": {
+        "a": 1,
+        "rgb": 16096779
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.38008246527778,
-  "lineSizeMultiplier": 1.49598958333333,
+  "nodeSizeMultiplier": 1.5,
+  "lineSizeMultiplier": 1.5,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "repelStrength": 15,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.4912092551770411,
+  "scale": 0.24168884971872184,
   "close": true
 }

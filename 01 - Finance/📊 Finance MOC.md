@@ -92,4 +92,22 @@ The foundation — how firms make financial decisions.
 
 ---
 
+
+---
+
+## 📚 Case Studies
+
+- [[Airthread Connections]]
+- [[Bankruptcy of Lehman Brothers]]
+- [[Berkshire Hathaway Capital Allocation]]
+- [[Congoleum Corporation]]
+- [[Dell Leverage Recapitalization]]
+- [[Hertz Global Holdings IPO]]
+- [[Marriott Corporation The Cost of Capital]]
+- [[Midland Energy Resources]]
+- [[RJR Nabisco LBO]]
+- [[Tesla 2020 Capital Raise]]
+
+---
+
 *← [[🏠 Dashboard]] | Next: [[📈 Economics MOC]] →*

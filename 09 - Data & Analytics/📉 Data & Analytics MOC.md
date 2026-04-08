@@ -75,4 +75,22 @@ tags: [moc, data, analytics]
 
 ---
 
+
+---
+
+## 📚 Case Studies
+
+- [[Amazon Hiring Algorithm Bias]]
+- [[Capital One Data Strategy]]
+- [[Google Hiring Algorithm]]
+- [[IBM Watson in Healthcare]]
+- [[Moneyball Oakland As]]
+- [[Netflix Recommendation Engine]]
+- [[Palantir Government Contracts]]
+- [[Target Pregnancy Prediction]]
+- [[UPS ORION Routing]]
+- [[Zillow iBuying Failure]]
+
+---
+
 *← [[🏠 Dashboard]] | Next: [[⚖️ Ethics & ESG MOC]] →*

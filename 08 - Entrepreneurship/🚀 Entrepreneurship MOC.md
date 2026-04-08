@@ -75,4 +75,22 @@ tags: [moc, entrepreneurship]
 
 ---
 
+
+---
+
+## 📚 Case Studies
+
+- [[Airbnb Early Days]]
+- [[Beyond Meat Scale-Up]]
+- [[Dropbox Growth]]
+- [[Slack Pivot]]
+- [[Snap IPO Decision]]
+- [[Spanx Sara Blakely]]
+- [[Warby Parker Launch]]
+- [[WeWork Rise and Fall]]
+- [[Y Combinator Model]]
+- [[Zipcar]]
+
+---
+
 *← [[🏠 Dashboard]] | Next: [[📉 Data & Analytics MOC]] →*
