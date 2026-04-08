@@ -11,10 +11,14 @@
             "id": "4aefb94a17e7e504",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "08 - Entrepreneurship/🚀 Entrepreneurship MOC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🚀 Entrepreneurship MOC"
             }
           }
         ]
@@ -74,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3daee46292fed465",
@@ -151,12 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "11 - Case Studies/Entrepreneurship/WeWork Rise and Fall.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of WeWork Rise and Fall"
             }
           }
         ]
@@ -177,43 +181,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "4aefb94a17e7e504",
+  "active": "0cae45560b93d91f",
   "lastOpenFiles": [
-    "01 - Finance/📊 Finance MOC.md",
-    "00 - Home/🏠 Dashboard.md",
-    "05 - Organizational Behavior/Leadership/Motivation Theories.md",
-    "Culture Change.md",
-    "11 - Case Studies/Ethics and ESG/Volkswagen Emissions Scandal.md",
-    "11 - Case Studies/Ethics and ESG/Unilever Sustainable Living Plan.md",
-    "11 - Case Studies/Ethics and ESG/Purdue Pharma and Opioids.md",
-    "11 - Case Studies/Ethics and ESG/Patagonia Environmental Activism.md",
-    "11 - Case Studies/Ethics and ESG/Nike Sweatshop Crisis.md",
-    "11 - Case Studies/Ethics and ESG/Johnson and Johnson Tylenol Recall.md",
-    "11 - Case Studies/Ethics and ESG/Facebook Cambridge Analytica.md",
-    "11 - Case Studies/Ethics and ESG/Chiquita Paramilitary Payments.md",
-    "11 - Case Studies/Ethics and ESG/BP Deepwater Horizon.md",
-    "11 - Case Studies/Ethics and ESG/Apple vs FBI.md",
-    "11 - Case Studies/Ethics and ESG",
-    "11 - Case Studies/Data Analytics/Zillow iBuying Failure.md",
-    "11 - Case Studies/Data Analytics/UPS ORION Routing.md",
-    "11 - Case Studies/Data Analytics/Target Pregnancy Prediction.md",
-    "11 - Case Studies/Data Analytics/Palantir Government Contracts.md",
-    "11 - Case Studies/Data Analytics/Netflix Recommendation Engine.md",
-    "11 - Case Studies/Data Analytics/Moneyball Oakland As.md",
-    "11 - Case Studies/Data Analytics/IBM Watson in Healthcare.md",
-    "11 - Case Studies/Data Analytics/Google Hiring Algorithm.md",
-    "11 - Case Studies/Data Analytics/Capital One Data Strategy.md",
-    "11 - Case Studies/Data Analytics/Amazon Hiring Algorithm Bias.md",
-    "11 - Case Studies/Data Analytics",
-    "11 - Case Studies/Entrepreneurship/Zipcar.md",
-    "11 - Case Studies/Entrepreneurship/Y Combinator Model.md",
-    "11 - Case Studies/Entrepreneurship",
-    "11 - Case Studies/Economics",
-    "11 - Case Studies/Accounting",
-    "11 - Case Studies/Organizational Behavior",
-    "11 - Case Studies/Operations",
-    "11 - Case Studies/Marketing",
-    "11 - Case Studies/Strategy",
-    "11 - Case Studies/Finance"
+    "02 - Strategy/Cases/Apple Platform Strategy Case.md",
+    "02 - Strategy/Cases/Amazon Flywheel Case.md",
+    "02 - Strategy/Cases/Netflix Disruption Case.md",
+    "10 - Ethics & ESG/Cases/BP Deepwater Horizon.md",
+    "10 - Ethics & ESG/Cases/Patagonia Environmental Activism.md",
+    "10 - Ethics & ESG/Cases/Volkswagen Emissions Scandal.md",
+    "10 - Ethics & ESG/Cases/Johnson and Johnson Tylenol Recall.md",
+    "10 - Ethics & ESG/Cases/Apple vs FBI.md",
+    "10 - Ethics & ESG/Cases/Chiquita Paramilitary Payments.md",
+    "10 - Ethics & ESG/Cases/Nike Sweatshop Crisis.md",
+    "10 - Ethics & ESG/Cases/Unilever Sustainable Living Plan.md",
+    "10 - Ethics & ESG/Cases/Purdue Pharma and Opioids.md",
+    "10 - Ethics & ESG/Cases/Facebook Cambridge Analytica.md",
+    "10 - Ethics & ESG/Cases",
+    "09 - Data & Analytics/Cases/Google Hiring Algorithm.md",
+    "09 - Data & Analytics/Cases/IBM Watson in Healthcare.md",
+    "09 - Data & Analytics/Cases/Zillow iBuying Failure.md",
+    "09 - Data & Analytics/Cases/Amazon Hiring Algorithm Bias.md",
+    "09 - Data & Analytics/Cases/Moneyball Oakland As.md",
+    "09 - Data & Analytics/Cases/Palantir Government Contracts.md",
+    "09 - Data & Analytics/Cases/Capital One Data Strategy.md",
+    "09 - Data & Analytics/Cases/UPS ORION Routing.md",
+    "09 - Data & Analytics/Cases/Target Pregnancy Prediction.md",
+    "09 - Data & Analytics/Cases/Netflix Recommendation Engine.md",
+    "09 - Data & Analytics/Cases",
+    "08 - Entrepreneurship/Cases/Airbnb Early Days.md",
+    "08 - Entrepreneurship/Cases/Warby Parker Launch.md",
+    "08 - Entrepreneurship/Cases/Slack Pivot.md",
+    "08 - Entrepreneurship/Cases",
+    "07 - Economics/Cases",
+    "06 - Accounting/Cases",
+    "05 - Organizational Behavior/Cases",
+    "04 - Operations/Cases",
+    "03 - Marketing/Cases",
+    "02 - Strategy/Cases",
+    "01 - Finance/Cases"
   ]
 }
