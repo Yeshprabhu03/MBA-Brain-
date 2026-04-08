@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a780d9c932383e20",
+        "id": "28788592014580d4",
         "type": "tabs",
         "children": [
           {
-            "id": "a048d2cc7273a9d8",
+            "id": "6e03efc7ec60d3b0",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -177,12 +177,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "a048d2cc7273a9d8",
+  "active": "6e03efc7ec60d3b0",
   "lastOpenFiles": [
+    "11 - Case Studies/Apple Platform Strategy Case.md",
+    "01 - Finance/Capital Markets/Capital Markets Overview.md",
+    "07 - Economics/Microeconomics/Supply and Demand.md",
+    "07 - Economics/📈 Economics MOC.md",
+    "00 - Home/🏠 Dashboard.md",
     "09 - Data & Analytics/Monte Carlo Simulation.md",
     "02 - Strategy/Corporate Strategy/M&A Strategy.md",
     "10 - Ethics & ESG/ESG Investing.md",
-    "07 - Economics/Microeconomics/Supply and Demand.md",
     "01 - Finance/Valuation/Comparable Company Analysis.md",
     "12 - Frameworks & Models/Ansoff Matrix.md",
     "06 - Accounting/Financial Accounting/Cash Flow Statement.md",
@@ -207,11 +211,7 @@
     "_Inbox",
     "02 - Strategy/Competitive Strategy/Porter's Five Forces.md",
     "12 - Frameworks & Models/🔧 Frameworks MOC.md",
-    "Templates/Framework Template.md",
-    "09 - Data & Analytics/A/B Testing.md",
     "09 - Data & Analytics/A",
-    "11 - Case Studies/Amazon Flywheel Case.md",
-    "05 - Organizational Behavior/Leadership/Psychological Safety.md",
     "quartz.config.ts",
     "_Assets/attachments",
     "_Assets"
