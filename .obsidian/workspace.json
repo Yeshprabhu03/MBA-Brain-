@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "756755aa5372d82d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b908f148e004e16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "288de523fd094136",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c3b4dcbe0f0c332",
+    "type": "split",
+    "children": [
+      {
+        "id": "b035ad4befb0affd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cae45560b93d91f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "82acf2e979c29a80",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5d92a7f7b83642a7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "3daee46292fed465",
+    "type": "split",
+    "children": [
+      {
+        "id": "faf4c322df134079",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ff24092d4de1865",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "fc4cbb2f568899b8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "1772b83dc2fb86a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e13d2e32a33ec845",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e0ce8a4cf5aae362",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "288de523fd094136",
+  "lastOpenFiles": [
+    "Templates/School Profile Template.md",
+    "Templates/Framework Template.md",
+    "Templates/Case Study Template.md",
+    "Templates/Concept Template.md",
+    "13 - Schools & Professors/Columbia/Columbia.md",
+    "13 - Schools & Professors/Kellogg/Kellogg.md",
+    "13 - Schools & Professors/Booth/Booth.md",
+    "13 - Schools & Professors/Wharton/Wharton.md",
+    "13 - Schools & Professors/Stanford GSB/Stanford GSB.md",
+    "13 - Schools & Professors/HBS/HBS.md",
+    "13 - Schools & Professors/🏫 Schools & Professors MOC.md",
+    "04 - Operations/Supply Chain/Supply Chain Management.md",
+    "02 - Strategy/Competitive Strategy/Disruptive Innovation.md",
+    "08 - Entrepreneurship/Venture Creation/Lean Startup.md",
+    "11 - Case Studies/Netflix Disruption Case.md",
+    "11 - Case Studies/📚 Case Studies MOC.md",
+    "Cohort Analysis.md",
+    "05 - Organizational Behavior/Negotiations/Negotiation Strategies.md",
+    "03 - Marketing/Consumer Behavior/STP Framework.md",
+    "12 - Frameworks & Models/Business Model Canvas.md",
+    "12 - Frameworks & Models/BCG Growth-Share Matrix.md",
+    "12 - Frameworks & Models/🔧 Frameworks MOC.md",
+    "10 - Ethics & ESG/⚖️ Ethics & ESG MOC.md",
+    "09 - Data & Analytics/📉 Data & Analytics MOC.md",
+    "08 - Entrepreneurship/🚀 Entrepreneurship MOC.md",
+    "07 - Economics/📈 Economics MOC.md",
+    "_Assets/attachments",
+    "_Assets",
+    "Templates",
+    "13 - Schools & Professors/Wharton",
+    "13 - Schools & Professors/Stanford GSB",
+    "13 - Schools & Professors/Kellogg",
+    "13 - Schools & Professors/HBS",
+    "13 - Schools & Professors/Columbia",
+    "13 - Schools & Professors/Booth",
+    "13 - Schools & Professors"
+  ]
+}

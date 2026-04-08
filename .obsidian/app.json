@@ -1,0 +1,10 @@
+{
+  "attachmentFolderPath": "_Assets/attachments",
+  "newFileLocation": "current",
+  "newLinkFormat": "shortest",
+  "promptDelete": false,
+  "showUnsupportedFiles": false,
+  "strictLineBreaks": false,
+  "trashOption": "local",
+  "useMarkdownLinks": false
+}
