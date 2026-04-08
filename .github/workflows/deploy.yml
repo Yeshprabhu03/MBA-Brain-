@@ -15,6 +15,9 @@ concurrency:
   group: "pages"
   cancel-in-progress: false
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   build:
     name: Build with Quartz
@@ -61,6 +64,10 @@ jobs:
           if [ -f quartz.layout.ts ]; then
             cp quartz.layout.ts quartz-build/quartz.layout.ts
           fi
+
+      - name: Debug Content
+        run: |
+          ls -R quartz-build/content
 
       - name: Build Quartz site
         run: |
