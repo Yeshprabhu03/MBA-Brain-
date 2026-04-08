@@ -28,7 +28,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
 
       - name: Clone Quartz
         run: |
@@ -61,13 +61,6 @@ jobs:
           if [ -f quartz.layout.ts ]; then
             cp quartz.layout.ts quartz-build/quartz.layout.ts
           fi
-
-      - name: Audit Content & Check for Duplicates
-        run: |
-          echo "📂 Listing content directory..."
-          ls -R quartz-build/content
-          echo "🔍 Checking for duplicate slugs..."
-          find quartz-build/content -name "*.md" | xargs basename -a | sort | uniq -d
 
       - name: Build Quartz site
         run: |
