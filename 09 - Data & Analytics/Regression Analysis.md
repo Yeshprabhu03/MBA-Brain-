@@ -111,14 +111,14 @@ $$P(Y=1) = \frac{1}{1 + e^{-(\beta_0 + \beta_1 X)}}$$
 1. **Coefficients** show marginal effects — the impact of one variable *holding all others fixed*
 2. **Signs matter**: Positive β = positive relationship, negative β = negative
 3. **Scale matters**: Compare standardized coefficients for relative importance
-4. **Causation ≠ correlation**: Regression shows association; need good design for causality ([[A/B Testing]])
+4. **Causation ≠ correlation**: Regression shows association; need good design for causality ([[A-B Testing]])
 5. **Out-of-sample validity**: Always test on held-out data
 
 ---
 
 ## 🔗 Connected Concepts
 
-- [[A/B Testing]] — When you need causal inference, not just correlation
+- [[A-B Testing]] — When you need causal inference, not just correlation
 - [[Monte Carlo Simulation]] — Simulation-based complement to regression
 - [[Hypothesis Testing]] — p-values and confidence intervals underlying regression
 - [[Decision Trees]] — Non-linear alternative for prediction
@@ -126,4 +126,4 @@ $$P(Y=1) = \frac{1}{1 + e^{-(\beta_0 + \beta_1 X)}}$$
 
 ---
 
-*← [[📉 Data & Analytics MOC]] | Related: [[A/B Testing]] · [[Hypothesis Testing]] · [[Decision Trees]]*
+*← [[📉 Data & Analytics MOC]] | Related: [[A-B Testing]] · [[Hypothesis Testing]] · [[Decision Trees]]*

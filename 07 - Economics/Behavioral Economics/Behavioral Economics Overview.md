@@ -141,7 +141,7 @@ Key nudge mechanisms:
 - [[Negotiation Strategies]] — Anchoring, framing are key negotiation tools
 - [[Pricing Strategies]] — Decoy pricing, anchoring, mental accounting
 - [[Leadership Styles]] — Leaders must account for follower biases
-- [[A/B Testing]] — Empirically test behavioral interventions
+- [[A-B Testing]] — Empirically test behavioral interventions
 
 ---
 

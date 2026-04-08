@@ -113,7 +113,7 @@ After identifying the 8 behaviors, Google:
 - [[Motivation Theories]] — Good managers enable autonomy, competence, and relatedness (SDT)
 - [[Leadership Styles]] — Project Oxygen operationalizes servant/coaching leadership
 - [[Organizational Culture]] — Manager behavior IS culture at the team level
-- [[A/B Testing]] — People analytics applies experimental logic to HR
+- [[A-B Testing]] — People analytics applies experimental logic to HR
 
 ---
 

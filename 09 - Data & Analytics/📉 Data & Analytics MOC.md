@@ -22,7 +22,7 @@ tags: [moc, data, analytics]
 
 ## 🧪 Experimentation
 
-- [[A/B Testing]] — Experimental design in business
+- [[A-B Testing]] — Experimental design in business
 - [[Randomization and Causality]] — RCTs vs. observational studies
 - [[Statistical Power]] — Avoiding underpowered experiments
 - [[Bayesian vs. Frequentist]] — Two schools of statistical inference

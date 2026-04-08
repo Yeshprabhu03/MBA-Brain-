@@ -128,7 +128,7 @@ The Moneyball logic applies wherever:
 
 ## 🔗 Connected Concepts
 
-- [[A/B Testing]] — Analytics culture applied to product decisions
+- [[A-B Testing]] — Analytics culture applied to product decisions
 - [[Regression Analysis]] — Statistical model used in sabermetrics
 - [[Behavioral Economics Overview]] — Scouts fall prey to availability heuristic, anchoring
 - [[Decision Making Under Uncertainty]] — Core theme

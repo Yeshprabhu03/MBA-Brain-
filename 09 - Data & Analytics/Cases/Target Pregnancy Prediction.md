@@ -115,7 +115,7 @@ After the NYT article, Target faced public outrage:
 ## 🔗 Connected Concepts
 
 - [[Regression Analysis]] — Logistic regression is the underlying model
-- [[A/B Testing]] — Target A/B tested which ad mixes were less creepy
+- [[A-B Testing]] — Target A/B tested which ad mixes were less creepy
 - [[Behavioral Economics Overview]] — Habit formation and the "habit loop" Target exploited
 - [[Facebook Cambridge Analytica]] — Companion case: using behavioral data for targeting with consent questions
 - [[Amazon Hiring Algorithm Bias]] — Companion: when algorithms create unintended consequences

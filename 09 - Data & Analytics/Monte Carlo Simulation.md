@@ -141,7 +141,7 @@ print(f"P(EV > $300M): {(ev > 300).mean():.1%}")
 ## 🔗 Connected Concepts
 
 - [[DCF Valuation]] — Monte Carlo makes DCF probabilistic
-- [[A/B Testing]] — Both statistical; A/B tests reality, Monte Carlo models uncertainty
+- [[A-B Testing]] — Both statistical; A/B tests reality, Monte Carlo models uncertainty
 - [[Regression Analysis]] — Can use regression outputs as Monte Carlo inputs
 - [[Break-Even Analysis]] — Monte Carlo shows probability of hitting break-even
 - [[WACC]] — Key uncertain input in financial Monte Carlo
