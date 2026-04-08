@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d88ff180412be0bd",
+        "id": "a780d9c932383e20",
         "type": "tabs",
         "children": [
           {
-            "id": "55a71bc8b779629e",
+            "id": "a048d2cc7273a9d8",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -176,8 +176,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "55a71bc8b779629e",
+  "active": "a048d2cc7273a9d8",
   "lastOpenFiles": [
+    "Templates/Raw Drop Template.md",
+    "_Inbox/📥 Inbox.md",
+    "_Reading",
+    "_Inbox/Textbook Excerpts",
+    "_Inbox/Cases",
+    "_Inbox/Lecture Notes",
+    "_Inbox/Articles",
+    "_Inbox",
+    "02 - Strategy/Competitive Strategy/Porter's Five Forces.md",
+    "12 - Frameworks & Models/🔧 Frameworks MOC.md",
+    "Templates/Framework Template.md",
     "09 - Data & Analytics/A/B Testing.md",
     "09 - Data & Analytics/A",
     "11 - Case Studies/Amazon Flywheel Case.md",
@@ -200,19 +211,8 @@
     "07 - Economics/Microeconomics/Game Theory.md",
     "02 - Strategy/Competitive Strategy/Blue Ocean Strategy.md",
     "Templates/School Profile Template.md",
-    "Templates/Framework Template.md",
     "Templates/Case Study Template.md",
-    "Templates/Concept Template.md",
-    "13 - Schools & Professors/Columbia/Columbia.md",
-    "13 - Schools & Professors/Kellogg/Kellogg.md",
-    "13 - Schools & Professors/Booth/Booth.md",
     "_Assets/attachments",
-    "_Assets",
-    "Templates",
-    "13 - Schools & Professors/Wharton",
-    "13 - Schools & Professors/Stanford GSB",
-    "13 - Schools & Professors/Kellogg",
-    "13 - Schools & Professors/HBS",
-    "13 - Schools & Professors/Columbia"
+    "_Assets"
   ]
 }

@@ -20,6 +20,8 @@ const config: QuartzConfig = {
       "Templates",
       ".obsidian",
       "_Assets",
+      "_Inbox",      // Raw drops — processed notes move to subject folders before publishing
+      "_Reading",    // Raw reading notes
     ],
     defaultDateType: "modified",
     theme: {
