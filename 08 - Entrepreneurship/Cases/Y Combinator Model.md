@@ -1,6 +1,6 @@
 ---
 title: Y Combinator Model
-tags: [case-study, entrepreneurship, inbox]
+tags: [case-study, entrepreneurship]
 ---
 
 # 📚 Y Combinator Model

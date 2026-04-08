@@ -1,6 +1,6 @@
 ---
 title: Zipcar
-tags: [case-study, entrepreneurship, inbox]
+tags: [case-study, entrepreneurship]
 ---
 
 # 📚 Zipcar

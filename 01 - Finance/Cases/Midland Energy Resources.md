@@ -1,6 +1,6 @@
 ---
 title: Midland Energy Resources
-tags: [case-study, finance, inbox]
+tags: [case-study, finance]
 ---
 
 # 📚 Midland Energy Resources

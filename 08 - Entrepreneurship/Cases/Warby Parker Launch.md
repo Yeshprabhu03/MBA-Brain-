@@ -1,6 +1,6 @@
 ---
 title: Warby Parker Launch
-tags: [case-study, entrepreneurship, inbox]
+tags: [case-study, entrepreneurship]
 ---
 
 # 📚 Warby Parker Launch

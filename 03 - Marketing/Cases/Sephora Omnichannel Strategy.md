@@ -1,6 +1,6 @@
 ---
 title: Sephora Omnichannel Strategy
-tags: [case-study, marketing, inbox]
+tags: [case-study, marketing]
 ---
 
 # 📚 Sephora Omnichannel Strategy

@@ -1,6 +1,6 @@
 ---
 title: BP Deepwater Horizon
-tags: [case-study, ethics, inbox]
+tags: [case-study, ethics]
 ---
 
 # 📚 BP Deepwater Horizon

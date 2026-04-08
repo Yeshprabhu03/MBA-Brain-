@@ -1,6 +1,6 @@
 ---
 title: Starbucks Delivering Customer Service
-tags: [case-study, marketing, inbox]
+tags: [case-study, marketing]
 ---
 
 # 📚 Starbucks Delivering Customer Service

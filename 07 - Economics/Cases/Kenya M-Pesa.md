@@ -1,6 +1,6 @@
 ---
 title: Kenya M-Pesa
-tags: [case-study, economics, inbox]
+tags: [case-study, economics]
 ---
 
 # 📚 Kenya M-Pesa

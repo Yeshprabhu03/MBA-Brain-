@@ -1,6 +1,6 @@
 ---
 title: Netflix Recommendation Engine
-tags: [case-study, data-analytics, inbox]
+tags: [case-study, data-analytics]
 ---
 
 # 📚 Netflix Recommendation Engine

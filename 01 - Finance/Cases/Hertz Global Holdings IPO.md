@@ -1,6 +1,6 @@
 ---
 title: Hertz Global Holdings IPO
-tags: [case-study, finance, inbox]
+tags: [case-study, finance]
 ---
 
 # 📚 Hertz Global Holdings IPO

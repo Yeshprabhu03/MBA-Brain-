@@ -1,6 +1,6 @@
 ---
 title: BlackBerry Decline
-tags: [case-study, strategy, inbox]
+tags: [case-study, strategy]
 ---
 
 # 📚 BlackBerry Decline

@@ -1,6 +1,6 @@
 ---
 title: Old Spice Rebranding
-tags: [case-study, marketing, inbox]
+tags: [case-study, marketing]
 ---
 
 # 📚 Old Spice Rebranding

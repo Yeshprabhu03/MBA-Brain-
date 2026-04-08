@@ -1,6 +1,6 @@
 ---
 title: IBM Watson in Healthcare
-tags: [case-study, data-analytics, inbox]
+tags: [case-study, data-analytics]
 ---
 
 # 📚 IBM Watson in Healthcare

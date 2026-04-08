@@ -1,6 +1,6 @@
 ---
 title: Dropbox Growth
-tags: [case-study, entrepreneurship, inbox]
+tags: [case-study, entrepreneurship]
 ---
 
 # 📚 Dropbox Growth

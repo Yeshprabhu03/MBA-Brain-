@@ -1,6 +1,6 @@
 ---
 title: Congoleum Corporation
-tags: [case-study, finance, inbox]
+tags: [case-study, finance]
 ---
 
 # 📚 Congoleum Corporation

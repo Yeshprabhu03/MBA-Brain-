@@ -1,6 +1,6 @@
 ---
 title: Purdue Pharma and Opioids
-tags: [case-study, ethics, inbox]
+tags: [case-study, ethics]
 ---
 
 # 📚 Purdue Pharma and Opioids

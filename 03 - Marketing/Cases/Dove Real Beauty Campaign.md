@@ -1,6 +1,6 @@
 ---
 title: Dove Real Beauty Campaign
-tags: [case-study, marketing, inbox]
+tags: [case-study, marketing]
 ---
 
 # 📚 Dove Real Beauty Campaign

@@ -1,6 +1,6 @@
 ---
 title: Spanx Sara Blakely
-tags: [case-study, entrepreneurship, inbox]
+tags: [case-study, entrepreneurship]
 ---
 
 # 📚 Spanx Sara Blakely

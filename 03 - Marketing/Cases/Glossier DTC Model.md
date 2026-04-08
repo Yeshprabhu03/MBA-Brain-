@@ -1,6 +1,6 @@
 ---
 title: Glossier DTC Model
-tags: [case-study, marketing, inbox]
+tags: [case-study, marketing]
 ---
 
 # 📚 Glossier DTC Model

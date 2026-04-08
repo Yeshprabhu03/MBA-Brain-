@@ -1,6 +1,6 @@
 ---
 title: IKEA Business System
-tags: [case-study, strategy, inbox]
+tags: [case-study, strategy]
 ---
 
 # 📚 IKEA Business System

@@ -1,6 +1,6 @@
 ---
 title: Facebook Cambridge Analytica
-tags: [case-study, ethics, inbox]
+tags: [case-study, ethics]
 ---
 
 # 📚 Facebook Cambridge Analytica

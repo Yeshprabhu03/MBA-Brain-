@@ -1,6 +1,6 @@
 ---
 title: Capital One Data Strategy
-tags: [case-study, data-analytics, inbox]
+tags: [case-study, data-analytics]
 ---
 
 # 📚 Capital One Data Strategy

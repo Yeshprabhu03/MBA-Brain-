@@ -1,6 +1,6 @@
 ---
 title: Google Project Aristotle
-tags: [case-study, organizational-behavior, inbox]
+tags: [case-study, organizational-behavior]
 ---
 
 # 📚 Google Project Aristotle

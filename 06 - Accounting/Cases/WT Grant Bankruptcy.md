@@ -1,6 +1,6 @@
 ---
 title: WT Grant Bankruptcy
-tags: [case-study, accounting, inbox]
+tags: [case-study, accounting]
 ---
 
 # 📚 WT Grant Bankruptcy

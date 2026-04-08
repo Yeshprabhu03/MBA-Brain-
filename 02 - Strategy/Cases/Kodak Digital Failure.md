@@ -1,6 +1,6 @@
 ---
 title: Kodak Digital Failure
-tags: [case-study, strategy, inbox]
+tags: [case-study, strategy]
 ---
 
 # 📚 Kodak Digital Failure

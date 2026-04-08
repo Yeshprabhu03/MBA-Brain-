@@ -1,6 +1,6 @@
 ---
 title: Nike Colin Kaepernick Ad
-tags: [case-study, marketing, inbox]
+tags: [case-study, marketing]
 ---
 
 # 📚 Nike Colin Kaepernick Ad

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ff4cd7cdf8547729",
+        "id": "f96ed22bbbc3312c",
         "type": "tabs",
         "children": [
           {
-            "id": "3c856d2cc0087115",
+            "id": "095309876bf0ec86",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3daee46292fed465",
@@ -176,8 +177,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "3c856d2cc0087115",
+  "active": "095309876bf0ec86",
   "lastOpenFiles": [
+    "09 - Data & Analytics/A-B Testing.md",
+    "09 - Data & Analytics/AB Testing.md",
+    "Michael Porter.md",
     "_build_test_env/tsconfig.json",
     "_build_test_env/quartz/static/giscus/light.css",
     "_build_test_env/quartz/static/giscus/dark.css",
@@ -188,7 +192,6 @@
     "_build_test_env/quartz/plugins/transformers/ofm.ts",
     "_build_test_env/quartz/plugins/transformers/links.ts",
     "_build_test_env/quartz/plugins/transformers/linebreaks.ts",
-    "_build_test_env/quartz/plugins/transformers/latex.ts",
     "_build_test_env/quartz/static/og-image.png",
     "_build_test_env/quartz/static/icon.png",
     "_build_test_env/docs/tags/plugin.md",
@@ -214,8 +217,6 @@
     "_build_test_env/docs/plugins/CustomOgImages.md",
     "_build_test_env/docs/plugins/CreatedModifiedDate.md",
     "_build_test_env/docs/plugins/CrawlLinks.md",
-    "_build_test_env/docs/plugins/ContentPage.md",
-    "_build_test_env/docs/plugins/ContentIndex.md",
     "_build_test_env/docs/images/social-image-preview-light.png",
     "_build_test_env/docs/images/social-image-preview-dark.png",
     "_build_test_env/docs/images/quartz-layout-tablet.png",

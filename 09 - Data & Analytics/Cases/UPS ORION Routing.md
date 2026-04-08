@@ -1,6 +1,6 @@
 ---
 title: UPS ORION Routing
-tags: [case-study, data-analytics, inbox]
+tags: [case-study, data-analytics]
 ---
 
 # 📚 UPS ORION Routing

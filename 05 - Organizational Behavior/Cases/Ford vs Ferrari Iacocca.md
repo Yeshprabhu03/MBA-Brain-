@@ -1,6 +1,6 @@
 ---
 title: Ford vs Ferrari Iacocca
-tags: [case-study, organizational-behavior, inbox]
+tags: [case-study, organizational-behavior]
 ---
 
 # 📚 Ford vs Ferrari Iacocca

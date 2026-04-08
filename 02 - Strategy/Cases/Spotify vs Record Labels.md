@@ -1,6 +1,6 @@
 ---
 title: Spotify vs Record Labels
-tags: [case-study, strategy, inbox]
+tags: [case-study, strategy]
 ---
 
 # 📚 Spotify vs Record Labels

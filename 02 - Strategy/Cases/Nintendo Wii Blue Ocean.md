@@ -1,6 +1,6 @@
 ---
 title: Nintendo Wii Blue Ocean
-tags: [case-study, strategy, inbox]
+tags: [case-study, strategy]
 ---
 
 # 📚 Nintendo Wii Blue Ocean

@@ -1,6 +1,6 @@
 ---
 title: Walmart vs Kmart
-tags: [case-study, strategy, inbox]
+tags: [case-study, strategy]
 ---
 
 # 📚 Walmart vs Kmart

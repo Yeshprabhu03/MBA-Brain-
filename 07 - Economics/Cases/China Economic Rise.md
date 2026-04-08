@@ -1,6 +1,6 @@
 ---
 title: China Economic Rise
-tags: [case-study, economics, inbox]
+tags: [case-study, economics]
 ---
 
 # 📚 China Economic Rise

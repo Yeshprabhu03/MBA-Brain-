@@ -1,6 +1,6 @@
 ---
 title: Bankruptcy of Lehman Brothers
-tags: [case-study, finance, inbox]
+tags: [case-study, finance]
 ---
 
 # 📚 Bankruptcy of Lehman Brothers

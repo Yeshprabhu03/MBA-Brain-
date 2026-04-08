@@ -1,6 +1,6 @@
 ---
 title: Waste Management Fraud
-tags: [case-study, accounting, inbox]
+tags: [case-study, accounting]
 ---
 
 # 📚 Waste Management Fraud

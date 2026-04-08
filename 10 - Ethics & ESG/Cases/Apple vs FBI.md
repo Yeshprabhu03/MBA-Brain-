@@ -1,6 +1,6 @@
 ---
 title: Apple vs FBI
-tags: [case-study, ethics, inbox]
+tags: [case-study, ethics]
 ---
 
 # 📚 Apple vs FBI

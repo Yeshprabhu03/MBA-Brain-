@@ -1,6 +1,6 @@
 ---
 title: Harnischfeger Industries
-tags: [case-study, accounting, inbox]
+tags: [case-study, accounting]
 ---
 
 # 📚 Harnischfeger Industries

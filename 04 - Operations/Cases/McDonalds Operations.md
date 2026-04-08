@@ -1,6 +1,6 @@
 ---
 title: McDonalds Operations
-tags: [case-study, operations, inbox]
+tags: [case-study, operations]
 ---
 
 # 📚 McDonalds Operations

@@ -1,6 +1,6 @@
 ---
 title: Reed Hastings at Netflix
-tags: [case-study, organizational-behavior, inbox]
+tags: [case-study, organizational-behavior]
 ---
 
 # 📚 Reed Hastings at Netflix

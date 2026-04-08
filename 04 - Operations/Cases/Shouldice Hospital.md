@@ -1,6 +1,6 @@
 ---
 title: Shouldice Hospital
-tags: [case-study, operations, inbox]
+tags: [case-study, operations]
 ---
 
 # 📚 Shouldice Hospital

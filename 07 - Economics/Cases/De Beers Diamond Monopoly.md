@@ -1,6 +1,6 @@
 ---
 title: De Beers Diamond Monopoly
-tags: [case-study, economics, inbox]
+tags: [case-study, economics]
 ---
 
 # 📚 De Beers Diamond Monopoly

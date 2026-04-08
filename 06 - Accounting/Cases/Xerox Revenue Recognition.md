@@ -1,6 +1,6 @@
 ---
 title: Xerox Revenue Recognition
-tags: [case-study, accounting, inbox]
+tags: [case-study, accounting]
 ---
 
 # 📚 Xerox Revenue Recognition

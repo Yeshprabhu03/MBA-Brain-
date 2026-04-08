@@ -1,6 +1,6 @@
 ---
 title: Patagonia Environmental Activism
-tags: [case-study, ethics, inbox]
+tags: [case-study, ethics]
 ---
 
 # 📚 Patagonia Environmental Activism

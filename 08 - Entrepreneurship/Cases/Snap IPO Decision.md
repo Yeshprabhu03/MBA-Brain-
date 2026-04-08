@@ -1,6 +1,6 @@
 ---
 title: Snap IPO Decision
-tags: [case-study, entrepreneurship, inbox]
+tags: [case-study, entrepreneurship]
 ---
 
 # 📚 Snap IPO Decision

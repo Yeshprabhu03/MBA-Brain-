@@ -1,6 +1,6 @@
 ---
 title: Airbnb Growth Hacking
-tags: [case-study, marketing, inbox]
+tags: [case-study, marketing]
 ---
 
 # 📚 Airbnb Growth Hacking

@@ -1,6 +1,6 @@
 ---
 title: Dell Build-to-Order Model
-tags: [case-study, operations, inbox]
+tags: [case-study, operations]
 ---
 
 # 📚 Dell Build-to-Order Model

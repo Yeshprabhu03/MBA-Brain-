@@ -1,6 +1,6 @@
 ---
 title: IBM Turnaround under Gerstner
-tags: [case-study, organizational-behavior, inbox]
+tags: [case-study, organizational-behavior]
 ---
 
 # 📚 IBM Turnaround under Gerstner

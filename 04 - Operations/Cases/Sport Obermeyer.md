@@ -1,6 +1,6 @@
 ---
 title: Sport Obermeyer
-tags: [case-study, operations, inbox]
+tags: [case-study, operations]
 ---
 
 # 📚 Sport Obermeyer

@@ -1,6 +1,6 @@
 ---
 title: Cryptocurrency and Monetary Policy
-tags: [case-study, economics, inbox]
+tags: [case-study, economics]
 ---
 
 # 📚 Cryptocurrency and Monetary Policy

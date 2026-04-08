@@ -1,6 +1,6 @@
 ---
 title: Google Hiring Algorithm
-tags: [case-study, data-analytics, inbox]
+tags: [case-study, data-analytics]
 ---
 
 # 📚 Google Hiring Algorithm

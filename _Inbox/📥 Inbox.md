@@ -1,6 +1,6 @@
 ---
 title: Inbox — Drop Zone
-tags: [inbox, meta]
+tags: [meta]
 ---
 
 # 📥 Inbox — Drop Zone
@@ -51,7 +51,7 @@ If you just want to capture something fast without processing:
 
 ```markdown
 # Title of Thing
-tags: [inbox, source-author-name]
+tags: [source-author-name]
 
 [Paste raw text here]
 

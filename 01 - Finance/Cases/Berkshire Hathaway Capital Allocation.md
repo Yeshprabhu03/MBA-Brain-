@@ -1,6 +1,6 @@
 ---
 title: Berkshire Hathaway Capital Allocation
-tags: [case-study, finance, inbox]
+tags: [case-study, finance]
 ---
 
 # 📚 Berkshire Hathaway Capital Allocation

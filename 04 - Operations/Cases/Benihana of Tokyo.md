@@ -1,6 +1,6 @@
 ---
 title: Benihana of Tokyo
-tags: [case-study, operations, inbox]
+tags: [case-study, operations]
 ---
 
 # 📚 Benihana of Tokyo

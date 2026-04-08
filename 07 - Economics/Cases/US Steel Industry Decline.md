@@ -1,6 +1,6 @@
 ---
 title: US Steel Industry Decline
-tags: [case-study, economics, inbox]
+tags: [case-study, economics]
 ---
 
 # 📚 US Steel Industry Decline

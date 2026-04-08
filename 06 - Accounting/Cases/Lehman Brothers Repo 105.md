@@ -1,6 +1,6 @@
 ---
 title: Lehman Brothers Repo 105
-tags: [case-study, accounting, inbox]
+tags: [case-study, accounting]
 ---
 
 # 📚 Lehman Brothers Repo 105

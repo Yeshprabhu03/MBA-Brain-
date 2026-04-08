@@ -1,6 +1,6 @@
 ---
 title: Zillow iBuying Failure
-tags: [case-study, data-analytics, inbox]
+tags: [case-study, data-analytics]
 ---
 
 # 📚 Zillow iBuying Failure

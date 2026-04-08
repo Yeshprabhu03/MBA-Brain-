@@ -1,6 +1,6 @@
 ---
 title: Dollar Shave Club
-tags: [case-study, marketing, inbox]
+tags: [case-study, marketing]
 ---
 
 # 📚 Dollar Shave Club

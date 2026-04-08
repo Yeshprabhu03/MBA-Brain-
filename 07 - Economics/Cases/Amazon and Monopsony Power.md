@@ -1,6 +1,6 @@
 ---
 title: Amazon and Monopsony Power
-tags: [case-study, economics, inbox]
+tags: [case-study, economics]
 ---
 
 # 📚 Amazon and Monopsony Power

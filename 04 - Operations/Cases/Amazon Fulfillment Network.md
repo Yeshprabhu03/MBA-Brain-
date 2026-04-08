@@ -1,6 +1,6 @@
 ---
 title: Amazon Fulfillment Network
-tags: [case-study, operations, inbox]
+tags: [case-study, operations]
 ---
 
 # 📚 Amazon Fulfillment Network

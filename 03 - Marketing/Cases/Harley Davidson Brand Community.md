@@ -1,6 +1,6 @@
 ---
 title: Harley Davidson Brand Community
-tags: [case-study, marketing, inbox]
+tags: [case-study, marketing]
 ---
 
 # 📚 Harley Davidson Brand Community

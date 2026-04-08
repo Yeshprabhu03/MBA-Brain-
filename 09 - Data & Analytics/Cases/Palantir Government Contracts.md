@@ -1,6 +1,6 @@
 ---
 title: Palantir Government Contracts
-tags: [case-study, data-analytics, inbox]
+tags: [case-study, data-analytics]
 ---
 
 # 📚 Palantir Government Contracts

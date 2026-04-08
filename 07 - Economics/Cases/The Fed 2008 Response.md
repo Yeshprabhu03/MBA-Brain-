@@ -1,6 +1,6 @@
 ---
 title: The Fed 2008 Response
-tags: [case-study, economics, inbox]
+tags: [case-study, economics]
 ---
 
 # 📚 The Fed 2008 Response

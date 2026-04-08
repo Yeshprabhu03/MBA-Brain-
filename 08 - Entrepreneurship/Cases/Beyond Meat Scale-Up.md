@@ -1,6 +1,6 @@
 ---
 title: Beyond Meat Scale-Up
-tags: [case-study, entrepreneurship, inbox]
+tags: [case-study, entrepreneurship]
 ---
 
 # 📚 Beyond Meat Scale-Up

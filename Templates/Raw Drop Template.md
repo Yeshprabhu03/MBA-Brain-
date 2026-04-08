@@ -1,6 +1,6 @@
 ---
 title: Raw Drop Template
-tags: [inbox, template]
+tags: [template]
 ---
 
 # {{Title of Case / Chapter / Article}}

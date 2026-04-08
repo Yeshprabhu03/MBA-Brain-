@@ -1,6 +1,6 @@
 ---
 title: Pixar Creativity Inc
-tags: [case-study, organizational-behavior, inbox]
+tags: [case-study, organizational-behavior]
 ---
 
 # 📚 Pixar Creativity Inc

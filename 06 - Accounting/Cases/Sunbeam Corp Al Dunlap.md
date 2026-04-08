@@ -1,6 +1,6 @@
 ---
 title: Sunbeam Corp Al Dunlap
-tags: [case-study, accounting, inbox]
+tags: [case-study, accounting]
 ---
 
 # 📚 Sunbeam Corp Al Dunlap

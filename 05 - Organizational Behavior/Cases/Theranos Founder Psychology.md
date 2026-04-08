@@ -1,6 +1,6 @@
 ---
 title: Theranos Founder Psychology
-tags: [case-study, organizational-behavior, inbox]
+tags: [case-study, organizational-behavior]
 ---
 
 # 📚 Theranos Founder Psychology

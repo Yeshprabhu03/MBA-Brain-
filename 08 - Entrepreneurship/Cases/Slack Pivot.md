@@ -1,6 +1,6 @@
 ---
 title: Slack Pivot
-tags: [case-study, entrepreneurship, inbox]
+tags: [case-study, entrepreneurship]
 ---
 
 # 📚 Slack Pivot

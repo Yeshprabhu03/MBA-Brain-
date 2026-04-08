@@ -1,6 +1,6 @@
 ---
 title: Nike Sweatshop Crisis
-tags: [case-study, ethics, inbox]
+tags: [case-study, ethics]
 ---
 
 # 📚 Nike Sweatshop Crisis

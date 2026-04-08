@@ -1,6 +1,6 @@
 ---
 title: Airthread Connections
-tags: [case-study, finance, inbox]
+tags: [case-study, finance]
 ---
 
 # 📚 Airthread Connections
