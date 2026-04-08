@@ -13,18 +13,18 @@ Covering: **HBS · Wharton · Booth · Kellogg · Stanford GSB · Columbia**
 
 ## 🗺️ Core Subject Areas
 
-| # | Subject | Focus |
-|---|---------|-------|
-| 01 | [[📊 Finance MOC]] | Valuation, Corporate Finance, IB, PE/VC |
-| 02 | [[🎯 Strategy MOC]] | Competitive & Corporate Strategy, M&A |
-| 03 | [[📣 Marketing MOC]] | Brand, Pricing, Consumer Behavior |
-| 04 | [[⚙️ Operations MOC]] | Supply Chain, Process, Quality |
-| 05 | [[👥 Organizational Behavior MOC]] | Leadership, Negotiations, Culture |
-| 06 | [[📒 Accounting MOC]] | Financial & Managerial Accounting |
-| 07 | [[📈 Economics MOC]] | Micro, Macro, Behavioral |
-| 08 | [[🚀 Entrepreneurship MOC]] | Venture Creation, Innovation |
-| 09 | [[📉 Data & Analytics MOC]] | Stats, A/B Testing, Analytics |
-| 10 | [[⚖️ Ethics & ESG MOC]] | Ethics, Sustainability, Governance |
+| #   | Subject                            | Focus                                   |
+| --- | ---------------------------------- | --------------------------------------- |
+| 01  | [[📊 Finance MOC]]                 | Valuation, Corporate Finance, IB, PE/VC |
+| 02  | [[🎯 Strategy MOC]]                | Competitive & Corporate Strategy, M&A   |
+| 03  | [[📣 Marketing MOC]]               | Brand, Pricing, Consumer Behavior       |
+| 04  | [[⚙️ Operations MOC]]              | Supply Chain, Process, Quality          |
+| 05  | [[👥 Organizational Behavior MOC]] | Leadership, Negotiations, Culture       |
+| 06  | [[📒 Accounting MOC]]              | Financial & Managerial Accounting       |
+| 07  | [[📈 Economics MOC]]               | Micro, Macro, Behavioral                |
+| 08  | [[🚀 Entrepreneurship MOC]]        | Venture Creation, Innovation            |
+| 09  | [[📉 Data & Analytics MOC]]        | Stats, A/B Testing, Analytics           |
+| 10  | [[⚖️ Ethics & ESG MOC]]            | Ethics, Sustainability, Governance      |
 
 ---
 
