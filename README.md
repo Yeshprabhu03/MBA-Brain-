@@ -4,6 +4,10 @@
 > Built with Obsidian. Published with Quartz. Automated with Python + AI.
 
 **🌐 Live Site → [Yeshprabhu03.github.io/MBA-Brain-](https://Yeshprabhu03.github.io/MBA-Brain-/)**
+<img width="1024" height="551" alt="image" src="https://github.com/user-attachments/assets/0627a7fe-7071-4bc5-b6d9-8163de40d4d2" />
+<img width="1024" height="616" alt="image" src="https://github.com/user-attachments/assets/a5b44d92-5b85-494c-9c9d-bf1344712bfb" />
+
+
 
 ---
 
