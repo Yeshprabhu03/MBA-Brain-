@@ -136,12 +136,15 @@ WeWork was valued at **12× its closest public comparable** — because it was f
 
 ## 🔗 Connected Concepts
 
-- [[VC Term Sheet]] — Super-voting shares, governance protections, investor rights
-- [[Lean Startup]] — WeWork scaled before validating unit economics (the opposite)
-- [[Corporate Governance]] — Founder governance failure
-- [[Comparable Company Analysis]] — IWG/Regus showed the true peer group
-- [[Capital Structure]] — Off-balance-sheet lease obligations masked true leverage
+- [[Corporate Governance]]: The catastrophic failure of the Board of Directors to check Adam Neumann.
+- [[Agency Theory]]: Extreme misalignment between regular shareholders and the CEO's self-dealing.
+- [[VRIO Framework]]: Real estate arbitrage is easily imitable, meaning they had no sustained moat.
+- [[Business Model Canvas]]: Evaluates the fatal flaw of borrowing short-term to lend long-term.
+- [[Organizational Culture]]: A toxic, cult-like internal environment masking financial insolvency.
+- [[Cost of Capital]]: Neumann's growth was fueled by zero-interest-rate environment funds.
+- [[Network Effects]]: WeWork falsely claimed physical office space possessed strong digital networking moats.
+- [[Ethics & ESG MOC]]: Flagrant disregard for financial transparency and ethical corporate behavior.
 
----
+
 
 *← [[🚀 Entrepreneurship MOC]] | [[📚 Case Studies MOC]]*

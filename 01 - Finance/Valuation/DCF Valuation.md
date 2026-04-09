@@ -158,6 +158,12 @@ print(f"Total Enterprise Value: ${ev:.1f}M")
 
 ---
 
+## 🎯 When Would I Use This?
+
+1. **Investment Banking Pitch Book**: "We need to present a rigorous intrinsic valuation of the target company to prove to the board that $50/share is a fair takeover premium."
+2. **Internal Project Finance**: "Should we build a new $500M factory? I will run a DCF on the projected cash flows to ensure the NPV is positive."
+3. **Value Investing Buy-Side**: "The market has panicked and dumped this stock. My DCF model indicates the intrinsic value is 40% higher than the current trading price."
+
 ## 🔗 Connected Concepts
 
 - [[Time Value of Money]] — the mathematical foundation

@@ -137,6 +137,12 @@ L&GROWTH:              Employee Training + Better IT Systems
 
 ---
 
+## 🎯 When Would I Use This?
+
+1. **Quarterly Business Review (QBR)**: "The CEO is hyper-fixated on the Financial metrics. I will use the Balanced Scorecard to prove that our internal processes and customer learning metrics are flashing red."
+2. **Departmental Goal Setting**: "Engineering needs to ensure their OKRs aren't just 'ship code fast', but also align with the 'Customer' and 'Learning' quadrants of the scorecard."
+3. **Incentive Compensation Design**: "We must tie executive bonuses to all four quadrants, ensuring they don't slash R&D (destroying 'Innovation') just to pump the 'Financial' quadrant."
+
 ## 🔗 Connected Concepts
 
 - [[OKRs]] — Modern alternative / complement to BSC

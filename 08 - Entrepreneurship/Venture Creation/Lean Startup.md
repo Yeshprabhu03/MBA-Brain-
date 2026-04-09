@@ -120,6 +120,12 @@ Traditional accounting is useless for early startups. Instead, measure:
 
 ---
 
+## 🎯 When Would I Use This?
+
+1. **New Product Ideation**: "We are not spending $2M to build the full app. We will build a $500 landing page (MVP) to test if anyone actually clicks 'Pre-Order'."
+2. **Corporate R&D Funding**: "Instead of fully funding this 3-year hardware project, we will provide seed funding for a 6-week Build-Measure-Learn sprint."
+3. **Pivoting a Failing Division**: "The market rejected our core hypothesis. We must look at the qualitative feedback and pivot our Customer Segment before we run out of runway."
+
 ## 🔗 Connected Concepts
 
 - [[Business Model Canvas]] — Document the model being tested

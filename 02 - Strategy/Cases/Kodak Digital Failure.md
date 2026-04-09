@@ -60,12 +60,15 @@ Kodak's leadership recognized digital was coming but consistently chose incremen
 
 ## 🔗 Connected Concepts
 
-- [[Disruptive Innovation]] — Kodak is Christensen's canonical example
-- [[Competitive Advantage]] — Kodak's moat (film chemistry) became irrelevant
-- [[Porter's Five Forces]] — Substitute threat from digital
-- [[Blue Ocean Strategy]] — Kodak could have created a new digital market
-- [[Value Chain Analysis]] — Kodak's entire value chain was film-dependent
+- [[Disruptive Innovation]]: The textbook example of a company inventing the disruption but suppressing it.
+- [[The Innovator's Dilemma]]: Why protecting the high-margin film business destroyed the overall company.
+- [[Core Rigidities]]: When former strengths (chemical engineering) become weaknesses in a digital era.
+- [[Organizational Culture]]: A culture dominated by chemists rather than forward-thinking technologists.
+- [[BCG Growth-Share Matrix]]: Kodak treated digital as a 'Dog' instead of a 'Question Mark'.
+- [[Scenario Planning]]: The strategic failure to accurately forecast the exponential curve of sensor tech.
+- [[Value Proposition]]: Consumers wanted to share memories, not necessarily print physical photos.
+- [[First Principles Thinking]]: Failing to understand the fundamental job was visual capture, not film.
 
----
+
 
 *← [[🎯 Strategy MOC]] | [[📚 Case Studies MOC]]*

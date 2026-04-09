@@ -60,12 +60,15 @@ BlackBerry failed on three dimensions simultaneously: (1) Product: Refused to ad
 
 ## 🔗 Connected Concepts
 
-- [[Disruptive Innovation]] — iPhone disrupted BlackBerry from below
-- [[Competitive Advantage]] — BlackBerry's moat (enterprise security, keyboard) became irrelevant
-- [[Porter's Five Forces]] — App ecosystem created massive switching costs
-- [[Kodak Digital Failure]] — Same pattern: incumbent sees threat, can't respond
-- [[Apple Platform Strategy Case]] — The platform that displaced BlackBerry
+- [[Disruptive Innovation]]: Apple shifted the phone from a productivity tool to a consumer entertainment platform.
+- [[The Innovator's Dilemma]]: BlackBerry ignored touchscreens to protect their keyboard-loving enterprise customer base.
+- [[Platform Strategy]]: Apple opened the App Store; BlackBerry kept a closed ecosystem and lost the developer war.
+- [[Network Effects]]: The iOS developer ecosystem created an uncopyable, cross-sided network moat.
+- [[User Experience (UX)]]: The paradigm shift from physical tactile feedback to software flexibility.
+- [[Value Chain Analysis]]: Moving value from hardware (keyboards) to localized software integrations.
+- [[Competitive Advantage]]: How a previously dominant moat vaporizes during an industry paradigm shift.
+- [[Jobs to Be Done]]: Realizing smartphones were hired for internet browsing, not just secure email.
 
----
+
 
 *← [[🎯 Strategy MOC]] | [[📚 Case Studies MOC]]*

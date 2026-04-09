@@ -99,6 +99,12 @@ Cash → Question Mark → (Success) → Star → (Market Matures) → Cash Cow 
 
 ---
 
+## 🎯 When Would I Use This?
+
+1. **Corporate Portfolio Rebalancing**: "We need to figure out which legacy hardware business (Dog) to divest to fund our new AI software division (Question Mark)."
+2. **Muted Earnings Call Defense**: "Investors are worried about low revenue growth in our core product; I must explain it is formally transitioning to a 'Cash Cow' strictly managed for high yield, not growth."
+3. **Resource Allocation Meeting**: "Marketing needs to stop spending all our ad budget defending the low-margin 'Dogs' just because of internal politics."
+
 ## 🔗 Connected Concepts
 
 - [[Competitive Advantage]] — BCG assumes share drives advantage

@@ -108,6 +108,12 @@ For Yellow Tail wine (Australian brand entering US market):
 
 ---
 
+## 🎯 When Would I Use This?
+
+1. **Founding a Startup**: "I cannot build another identical CRM to compete with Salesforce in a bloody Red Ocean. I must find a Blue Ocean by targeting construction companies who use paper."
+2. **Product Innovation Workshop**: "Instead of adding more highly-requested, expensive features, which features can we fundamentally eliminate to create a new value curve?"
+3. **Pricing Negotiation**: "We don't need to match their discount because our product sits in a Blue Ocean where no direct comparables exist."
+
 ## 🔗 Connected Concepts
 
 - [[Porter's Five Forces]] — Blue Ocean escapes the forces entirely

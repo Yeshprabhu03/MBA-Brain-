@@ -106,12 +106,15 @@ Southwest's genius: **every activity reinforces every other activity**, creating
 
 ## 🔗 Connected Concepts
 
-- [[Porter's Five Forces]] — Southwest avoided the supplier power / rivalry by changing the game
-- [[Competitive Advantage]] — Activity fit as a source of sustainable advantage
-- [[Value Chain Analysis]] — Every Southwest activity is aligned to low-cost delivery
-- [[Blue Ocean Strategy]] — Southwest competed against cars, not airlines
-- [[Lean Manufacturing]] — Fast turnarounds borrow from lean principles
+- [[Porter's Generic Strategies]]: A flawless execution of the 'Cost Leadership' quadrant.
+- [[Operations Strategy]]: Point-to-point routing vs. the traditional hub-and-spoke legacy model.
+- [[Lean Manufacturing]]: Treating plane turnaround times with the same urgency as single-minute exchange of dies.
+- [[Organizational Culture]]: A deeply ingrained employee-first culture driving exceptional customer service.
+- [[Core Competencies]]: Utilizing a single aircraft type (Boeing 737) to drastically slash maintenance training.
+- [[Value Chain Analysis]]: Eliminating travel agents, meals, and assigned seating to lower the cost floor.
+- [[Blue Ocean Strategy]]: Initially competing against buses and cars, not other airlines.
+- [[Continuous Improvement (Kaizen)]]: The relentless drive to optimize boarding and deplaning metrics.
 
----
+
 
 *← [[🎯 Strategy MOC]] | [[📚 Case Studies MOC]]*

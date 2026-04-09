@@ -90,6 +90,12 @@ Plot your brand versus competitors on two axes that matter to your customer (e.g
 
 ---
 
+## 🎯 When Would I Use This?
+
+1. **Go-To-Market Plan for a New App**: "We cannot target 'everyone'. We must Segment the market by income, Target college students, and Position ourselves as the affordable luxury alternative."
+2. **Brand Repositioning**: "Our legacy brand is viewed as outdated. We need to shift our Positioning statement to target a younger, hyper-online demographic."
+3. **Product Line Expansion**: "If we launch a premium version of our tool, how do we Segment the user base so it doesn't cannibalize our cheap tier?"
+
 ## 🔗 Connected Concepts
 
 - [[4Ps of Marketing]] — Positioning informs all four Ps

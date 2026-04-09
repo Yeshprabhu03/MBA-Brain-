@@ -132,6 +132,12 @@ After an acquisition, use 7S to identify integration challenges:
 
 ---
 
+## 🎯 When Would I Use This?
+
+1. **Post-Merger Integration**: "We've synchronized the 'Structure' and 'Systems' of the two companies, but the merger is failing because the 'Style' and 'Shared Values' are deeply incompatible."
+2. **Change Management Initiative**: "If we implement this new AI software (Strategy), we must simultaneously upgrade employee training (Skills) or the entire system will break."
+3. **Organizational Audit**: "We are losing talent rapidly; I need a holistic diagnostic tool to see if our 'Staff' and 'Structure' are misaligned."
+
 ## 🔗 Connected Concepts
 
 - [[Organizational Culture]] — "Shared Values" and "Style" connect here

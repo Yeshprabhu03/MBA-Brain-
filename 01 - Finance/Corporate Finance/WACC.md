@@ -140,6 +140,12 @@ This is why analysts always present WACC sensitivity tables alongside DCF models
 
 ---
 
+## 🎯 When Would I Use This?
+
+1. **Capital Allocation Decisions**: "The corporate WACC is 8%. Any internal project proposing an IRR of 6% must be immediately rejected."
+2. **CFO Debt Issuance**: "If we issue $1B in junk bonds, it will raise our cost of debt, fundamentally altering our WACC and destroying our equity valuation."
+3. **Divisional Performance Evaluation**: "We cannot judge the Software division and the Real Estate division using the same hurdle rate; we must calculate a specific WACC for each."
+
 ## 🔗 Connected Concepts
 
 - [[DCF Valuation]] — WACC is the discount rate

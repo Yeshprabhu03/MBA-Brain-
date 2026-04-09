@@ -36,6 +36,15 @@ tags: [moc, data, analytics]
 - [[Clustering]] — K-means, segmentation methods
 - [[Monte Carlo Simulation]] — Modeling uncertainty in decisions
 
+## 🤖 AI & Large Language Models in Business
+
+- [[Large Language Models]] — What they are and business applications
+- [[AI Strategy]] — How companies build defensibility and competitive moats with AI
+- [[Generative AI Business Uses]] — Use cases by business function (Finance, Marketing, Operations, HR)
+- [[AI Governance]] — Hallucinations, bias, and regulatory risk management
+- [[Prompt Engineering]] — Essential communication skills for working with AI models
+- [[RAG]] — Retrieval-Augmented Generation for enterprise knowledge management
+
 ---
 
 ## 📈 Business Intelligence
@@ -82,10 +91,12 @@ tags: [moc, data, analytics]
 
 - [[Amazon Hiring Algorithm Bias]]
 - [[Capital One Data Strategy]]
+- [[Google Bard vs ChatGPT]]
 - [[Google Hiring Algorithm]]
 - [[IBM Watson in Healthcare]]
 - [[Moneyball Oakland As]]
 - [[Netflix Recommendation Engine]]
+- [[OpenAI and the LLM Race]]
 - [[Palantir Government Contracts]]
 - [[Target Pregnancy Prediction]]
 - [[UPS ORION Routing]]

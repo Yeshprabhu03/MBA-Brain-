@@ -141,6 +141,12 @@ Rivalry is intense when:
 
 ---
 
+## 🎯 When Would I Use This?
+
+1. **Private Equity Industry Deep-Dive**: "Before screening specific companies in the HVAC sector, I will use Porter's to determine if the fundamental industry structure allows for margin expansion, or if supplier consolidation has destroyed profitability."
+2. **Corporate Strategy M&A**: "If we acquire this raw materials supplier, how will it shift our 'Bargaining Power of Suppliers' rating from High to Low?"
+3. **Startup Board Meeting**: "We need to identify if our software has strong enough switching costs to neutralize the 'Threat of New Entrants'."
+
 ## 🔗 Connected Concepts
 
 - [[Competitive Advantage]] — What to do once you've analyzed the forces

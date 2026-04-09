@@ -133,6 +133,12 @@ S      w    │              │              │
 
 ---
 
+## 🎯 When Would I Use This?
+
+1. **Growth Strategy Mandate**: "The CEO demanded 20% YoY top-line growth. I will use Ansoff to lay out the four exact paths we can take: Market Penetration, Market Development, Product Development, or Diversification."
+2. **C-Suite Risk Assessment**: "The Board wants us to build a completely new product for a completely new market (Diversification). I will use Ansoff to visually demonstrate why this is the highest possible risk quadrant."
+3. **Geographic Expansion Business Case**: "We are taking our existing SaaS tool to Europe. This is a classic Market Development play."
+
 ## 🔗 Connected Concepts
 
 - [[Blue Ocean Strategy]] — A way to think about the "new market" quadrants

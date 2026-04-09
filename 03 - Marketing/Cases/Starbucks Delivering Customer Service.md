@@ -60,12 +60,15 @@ CLV analysis shows: a highly satisfied customer visits 8.3×/month and remains a
 
 ## 🔗 Connected Concepts
 
-- [[Customer Lifetime Value]] — Core analytical framework for this case
-- [[STP Framework]] — Segmenting customers by satisfaction and value
-- [[4Ps of Marketing]] — Place (store experience) as competitive advantage
-- [[Pricing Strategies]] — Premium pricing requires experience justification
-- [[Competitive Advantage]] — Service experience as moat
+- [[Value Proposition]]: Shifting from selling coffee to selling the "Third Place" between work and home.
+- [[Customer Lifetime Value]]: Realizing that a high-retention customer justifies massive upfront satisfaction costs.
+- [[Service Profit Chain]]: The direct mathematical link between employee satisfaction and customer loyalty.
+- [[Organizational Behavior]]: How Howard Schultz created a culture of empowerment for baristas.
+- [[Brand Equity]]: Building a premium lifestyle brand that allows for massive pricing power over commodity coffee.
+- [[Operations Strategy]]: The tension between increasing speed of service and maintaining hand-crafted quality.
+- [[Lean Startup]]: Rapidly testing customer reactions to automated espresso machines vs manual pulls.
+- [[Process Mapping]]: Reducing physical barista movements to shave seconds off the drivethrough times.
 
----
+
 
 *← [[📣 Marketing MOC]] | [[📚 Case Studies MOC]]*

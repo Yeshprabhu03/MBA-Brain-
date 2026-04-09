@@ -60,12 +60,15 @@ Researcher Julia Rozovsky found 5 key dynamics of effective teams, in order of i
 
 ## 🔗 Connected Concepts
 
-- [[Psychological Safety]] — The core concept this case validates
-- [[Google Project Oxygen]] — Companion research on manager effectiveness
-- [[Motivation Theories]] — Safety enables intrinsic motivation
-- [[Leadership Styles]] — Leaders must model vulnerability
-- [[Enron Culture Collapse]] — Counter-example: zero psychological safety
+- [[Psychological Safety]]: The number one proven determinant of high-performing teams, overshadowing raw IQ.
+- [[Organizational Behavior]]: How team dynamics and unwritten rules dictate overall corporate output.
+- [[Leadership Styles]]: Why leaders who display vulnerability build significantly stronger teams.
+- [[Team Effectiveness]]: Proving that "who" is on a team matters far less than "how" the team interacts.
+- [[Corporate Culture]]: The intentional engineering of environments where risk-taking is celebrated.
+- [[Data-Driven Decision Making]]: Applying strict analytical rigor to traditionally "soft" HR topics.
+- [[OKR Framework]]: How psychologically safe teams are empowered to set wildly ambitious goals.
+- [[Continuous Improvement (Kaizen)]]: Feedback loops only function when employees aren't afraid of retaliation.
 
----
+
 
 *← [[👥 Organizational Behavior MOC]] | [[📚 Case Studies MOC]]*

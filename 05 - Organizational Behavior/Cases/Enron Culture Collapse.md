@@ -121,12 +121,15 @@ Watkins became one of Time's "Persons of the Year" in 2002, but her warning was 
 
 ## 🔗 Connected Concepts
 
-- [[Psychological Safety]] — Anti-thesis of Enron's culture; safe dissent would have surfaced problems
-- [[Corporate Governance]] — Board failure was central; Sarbanes-Oxley response
-- [[Motivation Theories]] — Enron's incentives weaponized extrinsic motivation
-- [[Leadership Styles]] — Toxic authoritarian style
-- [[Stakeholder Theory]] — Enron optimized for shareholder wealth short-term; destroyed all stakeholders
+- [[Organizational Culture]]: How the hyper-competitive "Rank and Yank" system obliterated moral boundaries.
+- [[Corporate Governance]]: The catastrophic failure of the Board to police the CFO's blatant conflicts of interest.
+- [[Agency Theory]]: Executives looted the company for personal gain, destroying the principals' (shareholders) equity.
+- [[Ethics & ESG MOC]]: The defining modern case study in business ethics and the necessity of whistleblowers.
+- [[Psychological Safety]]: A completely toxic environment where questioning the leadership resulted in termination.
+- [[Financial Statement Analysis]]: The failure of Wall Street to correctly interpret off-balance-sheet debt.
+- [[Incentive Design]]: Why paying bonuses strictly based on mark-to-market revenue estimates guarantees logical fraud.
+- [[Leadership Styles]]: Skilling and Lay's arrogant, opaque leadership directly fostered systemic criminality.
 
----
+
 
 *← [[👥 Organizational Behavior MOC]] | [[📚 Case Studies MOC]]*

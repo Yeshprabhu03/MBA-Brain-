@@ -98,6 +98,12 @@ aliases: [BMC, Osterwalder canvas]
 
 ---
 
+## 🎯 When Would I Use This?
+
+1. **Seed Round Pitch Deck**: "Investors don't want a 50-page business plan. I will present our entire startup on a single slide using the 9 blocks of the Business Model Canvas."
+2. **Pivot Strategy Session**: "Our customer acquisition cost is too high. Let's pull up the Canvas and redraw the 'Channels' and 'Customer Relationships' blocks."
+3. **Corporate Innovation Lab**: "We need to map out out how our new D2C subscription box impacts the 'Key Partners' in our traditional retail supply chain."
+
 ## 🔗 Connected Concepts
 
 - [[Lean Startup]] — Test BMC assumptions iteratively

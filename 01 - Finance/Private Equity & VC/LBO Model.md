@@ -118,6 +118,12 @@ $$IRR = \left(\frac{\text{Exit Equity Value}}{\text{Entry Equity Value}}\right)^
 
 ---
 
+## 🎯 When Would I Use This?
+
+1. **Private Equity Case Interview**: "You have 60 minutes to build a paper LBO to determine the maximum purchase price we can pay while still hitting a 20% IRR."
+2. **Finding the Valuation Floor**: "The market has crashed. What is the lowest the stock will go? I will run an LBO to see at what price private equity firms will swoop in to buy it."
+3. **Sponsor-Backed M&A Modeling**: "We must determine how much debt a consortium of banks is willing to underwrite based on the target's operating cash flow."
+
 ## 🔗 Connected Concepts
 
 - [[Capital Structure]] — LBO is extreme leverage exercise

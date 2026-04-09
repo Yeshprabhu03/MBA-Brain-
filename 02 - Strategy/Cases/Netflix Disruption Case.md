@@ -117,15 +117,17 @@ Netflix pioneered using *viewing data* to make content decisions:
 
 ---
 
-## 🔗 Connected Concepts & Frameworks
+## 🔗 Connected Concepts
 
-- [[Disruptive Innovation]] — Classic Christensen disruption
-- [[Business Model Canvas]] — How Netflix's BMC evolved
-- [[Platform Strategy]] — Netflix as content platform
-- [[Customer Lifetime Value]] — SVOD economics
-- [[Competitive Advantage]] — Content + tech moat
-- [[BCG Growth-Share Matrix]] — Where streaming sits in media landscape
+- [[Disruptive Innovation]]: The classic framework explaining how streaming replaced DVDs.
+- [[Value Chain Analysis]]: Netflix eliminated physical distribution and stores from the value chain.
+- [[Porter's Five Forces]]: Shows the intense competition Netflix now faces in the 'Streaming Wars'.
+- [[First Principles Thinking]]: Hastings realized entertainment relies on data delivery, not physical discs.
+- [[Core Competencies]]: Netflix's shift from logistics to content creation algorithms.
+- [[Business Model Canvas]]: The shift from pay-per-rental to subscription recurring revenue.
+- [[Economies of Scale]]: Why Netflix's massive user base allows them to outspend rivals on original content.
+- [[Network Effects]]: The data-flywheel where more viewers provide better algorithmic recommendations.
 
----
+
 
 *← [[🎯 Strategy MOC]] | [[📚 Case Studies MOC]]*

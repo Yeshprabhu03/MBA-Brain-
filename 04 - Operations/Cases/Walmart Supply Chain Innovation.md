@@ -60,8 +60,15 @@ Detailed strategic and operational analysis covered in the background and proble
 
 ## 🔗 Connected Concepts
 
-- [[Supply Chain Management]], [[Lean Manufacturing]], [[Competitive Advantage]], [[Porter's Five Forces]], [[Walmart vs Kmart]]
+- [[Supply Chain Management]]: Walmart set the global standard for cross-docking and inventory velocity.
+- [[Cost Leadership]]: Using extreme supply chain efficiencies to pass savings to the consumer and undercut rivals.
+- [[Porter's Five Forces]]: Achieving massive bargaining power over suppliers due to unprecedented retail scale.
+- [[Operations Strategy]]: The implementation of RFID and satellite communications long before competitors.
+- [[Economies of Scale]]: Why a Mom-and-Pop competitor cannot mathematically match their localized cost structure.
+- [[VRIO Framework]]: Their proprietary logistics software (Retail Link) became a rare and inimitable resource.
+- [[Inventory Turnover]]: Maintaining massive ROIC despite low net margins by flipping inventory rapidly.
+- [[First Principles Thinking]]: Rethinking retail distribution from direct-to-store to centralized, automated hubs.
 
----
+
 
 *← [[⚙️ Operations MOC]] | [[📚 Case Studies MOC]]*
